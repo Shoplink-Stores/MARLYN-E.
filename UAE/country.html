@@ -187,9 +187,10 @@ return;
 }
 
 const country=card.dataset.country;
-alert("You selected: " + country);
+//alert("You selected: " + country);
 window.location.href=
-featuredLink;
+featuredLink+
+"&country="+country;
 
 };
 
