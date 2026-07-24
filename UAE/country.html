@@ -135,63 +135,57 @@ Please select your country.
 
 <script>
 
-// Product link galing product.html
-
-const params=new URLSearchParams(location.search);
-
+// Kunin ang product mula sa URL
+const params = new URLSearchParams(location.search);
 const product = params.get("product");
 
-document.querySelectorAll(".country").forEach(card=>{
+// Country selection
+document.querySelectorAll(".country").forEach(card => {
 
-    card.onclick=()=>{
+    card.onclick = () => {
+
+        // Walang product o hindi kilalang product
+        if (!product || !products[product]) {
+            window.location.href = "not-available.html";
+            return;
+        }
 
         const country = card.dataset.country;
-        
-        window.location.href = products[product][country];
+        const link = products[product][country];
+
+        // Walang link para sa napiling country
+        if (!link) {
+            window.location.href =
+                "not-available.html?product=" +
+                product +
+                "&country=" +
+                country;
+            return;
+        }
+
+        // Redirect sa tamang product link
+        window.location.href = link;
 
     };
 
 });
 
 // Search
+const search = document.getElementById("search");
 
-const search=document.getElementById("search");
+search.addEventListener("input", () => {
 
-search.addEventListener("input",()=>{
+    const keyword = search.value.toLowerCase();
 
-const keyword=search.value.toLowerCase();
+    document.querySelectorAll(".country").forEach(card => {
 
-document.querySelectorAll(".country").forEach(card=>{
+        const text = card.innerText.toLowerCase();
 
-const text=card.innerText.toLowerCase();
+        card.style.display = text.includes(keyword)
+            ? "flex"
+            : "none";
 
-card.style.display=text.includes(keyword)
-?"flex":"none";
-
-});
-
-});
-
-// Redirect
-
-document.querySelectorAll(".country").forEach(card=>{
-
-card.onclick=()=>{
-
-if(!product){
-
-alert("Product link not found.");
-
-return;
-
-}
-
-const country=card.dataset.country;
-//alert("You selected: " + country);
-window.location.href=featuredLink+
-"&country="+country;
-
-};
+    });
 
 });
 
