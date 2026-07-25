@@ -367,7 +367,7 @@ const products = {
 
         PH: "https://shop.jcpremiere.com/products/3b2acec7858446ee9ba3b00b0e077f6f/11111510551",
 
-        AE: "https://shop.jcpremiere.com/products/e1f2d5714d6048d6a93ea28f387195bf/11111510551",
+        AE: "https://shop.jcpremiere.com/products/6f23238a5e5146a6941cc502ebe15fe2/11111510551",
 
     },
 
