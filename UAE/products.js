@@ -235,41 +235,41 @@ const products = {
 
     product26: {
 
-        QA: "https://shop.jcpremiere.com/products/e1f2d5714d6048d6a93ea28f387195bf/11111510551",
+        QA: "https://shop.jcpremiere.com/products/55ca51551bef40e4ba7caf98794390e2/11111510551",
         
-        PH: "https://shop.jcpremiere.com/products/5877e5b1d21e4d5db3cec55b3c5544f7/11111510551",
+        PH: "https://shop.jcpremiere.com/products/18e6d917128c4d0ba7ed97c868ecf22a/11111510551",
 
-        AE: "https://shop.jcpremiere.com/products/e1f2d5714d6048d6a93ea28f387195bf/11111510551",
+        AE: "https://shop.jcpremiere.com/products/e89e85793b434f8e83b0a5b582447d5b/11111510551",
 
     },
 
     product27: {
 
-        QA: "https://shop.jcpremiere.com/products/e1f2d5714d6048d6a93ea28f387195bf/11111510551",
+        QA: "https://shop.jcpremiere.com/products/bca201e48ae444358c5d351f58d8e10d/11111510551",
         
         PH: "https://shop.jcpremiere.com/products/5877e5b1d21e4d5db3cec55b3c5544f7/11111510551",
 
-        AE: "https://shop.jcpremiere.com/products/e1f2d5714d6048d6a93ea28f387195bf/11111510551",
+        AE: "https://shop.jcpremiere.com/products/24c8d5a61d61459f9c73483c86ae464d/11111510551",
 
     },
 
     product28: {
 
-        QA: "https://shop.jcpremiere.com/products/e1f2d5714d6048d6a93ea28f387195bf/11111510551",
+        QA: "https://shop.jcpremiere.com/products/40ab0a1c62fb49e788ccba5076a49400/11111510551",
         
-        PH: "https://shop.jcpremiere.com/products/5877e5b1d21e4d5db3cec55b3c5544f7/11111510551",
+        PH: "https://shop.jcpremiere.com/products/5a00887edd844e42ba81b5813a3e1b9f/11111510551",
 
-        AE: "https://shop.jcpremiere.com/products/e1f2d5714d6048d6a93ea28f387195bf/11111510551",
+        AE: "https://shop.jcpremiere.com/products/6969748fe73f4e1a90462ebdb474701e/11111510551",
 
     },
 
     product29: {
 
-        QA: "https://shop.jcpremiere.com/products/e1f2d5714d6048d6a93ea28f387195bf/11111510551",
+        QA: "https://shop.jcpremiere.com/products/7c7ab83c557944bf8905e45b3897b857/11111510551",
         
-        PH: "https://shop.jcpremiere.com/products/5877e5b1d21e4d5db3cec55b3c5544f7/11111510551",
+        PH: "https://shop.jcpremiere.com/products/b32625bc59684b6d80a7afcdd1fbf175/11111510551",
 
-        AE: "https://shop.jcpremiere.com/products/e1f2d5714d6048d6a93ea28f387195bf/11111510551",
+        AE: "https://shop.jcpremiere.com/products/c211e5d040244cf1bcd7fa0b837ecdb6/11111510551",
 
     },
 
