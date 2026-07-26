@@ -1,5 +1,13 @@
 const products = {
 
+    country: {
+
+        PH:"https://shoplink-stores.github.io/MARLYN-E./PH/shop.html",
+
+        AE:"https://shoplink-stores.github.io/MARLYN-E./UAE/shop.html",
+
+    },
+
     product1: {
         
         PH: "https://shop.jcpremiere.com/products/5877e5b1d21e4d5db3cec55b3c5544f7/11111510551",
