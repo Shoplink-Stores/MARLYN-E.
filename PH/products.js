@@ -2,9 +2,9 @@ const products = {
 
     country: {
 
-        PH:"https://Shoplink-Stores/MARLYN Es/PH/shop.html",
+        PH:"https://shoplink-stores.github.io/MARLYN-E./PH/shop.html Es/PH/shop.html",
 
-        AE:"",
+        AE:"https://shoplink-stores.github.io/MARLYN-E./UAE/shop.html",
 
     product1: {
         
