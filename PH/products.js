@@ -1,13 +1,5 @@
 const products = {
 
-    country: {
-
-        PH:"https://shoplink-stores.github.io/ARCELI-R/PH/shop.html",
-
-        QA:"https://shoplink-stores.github.io/ARCELI-R/QTR/shop.html",
-
-    },
-
     product1: {
 
         PH:"https://shop.jcpremiere.com/products/b0115d193f8145ba975bca69debf4950/",
@@ -156,17 +148,13 @@ const products = {
 //Barley Coffee Mocha Tub
     product18: {
 
-        PH:"",
-        UA:"",
-        QA:"",
+        
 
     },
 //Barley Coffee Classic Tub
     product19: {
 
-        PH:"",
-        UA:"",
-        QA:"",
+        
 
     },
 //Barley Coffee Black Tub
