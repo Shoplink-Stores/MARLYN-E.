@@ -79,7 +79,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/1ca9d9badeb9406484dd4c803e6ebaf2/11111510551",
         UA:"https://shop.jcpremiere.com/products/8a9e0efc25304b71aba18870a574d686/11111510551",
         QA:"https://shop.jcpremiere.com/products/1acd0b128c96495b9e977655c52bb83d/11111510551",
-        ITA:"https://shop.jcpremiere.com/products/ab67c9467c7942f687ab61ec26040983/11111510551
+        ITA:"https://shop.jcpremiere.com/products/ab67c9467c7942f687ab61ec26040983/11111510551",
+    
     },
 //Organic Barley Juice
     product10: {
