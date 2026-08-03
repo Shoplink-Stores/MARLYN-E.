@@ -12,9 +12,9 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/b0115d193f8145ba975bca69debf4950/11111510551",
         
-        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
         
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 
@@ -22,9 +22,9 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/a75aa1718ca54ca8bbe2402b31ab71f7/11111510551",
         
-        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
         
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 
@@ -32,9 +32,9 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/c575d232587b468fb3f10f2c98a4bc68/11111510551",
         
-        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
         
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 
@@ -42,9 +42,9 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/da47cc0c698f4a769c94ce2c8571a82f/11111510551",
         
-        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
         
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 
@@ -52,9 +52,9 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/bf60e4f81832484e8fa7a2df2ea6715f/11111510551",
         
-        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
         
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 
@@ -62,9 +62,9 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/00b820458a0145de9e139c54e8ba94bb/11111510551",
         
-        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
         
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 
@@ -72,9 +72,9 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/bd18b75dfe7149caab976d6b7e836dd2/11111510551",
         
-        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
         
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 
