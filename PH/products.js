@@ -10,7 +10,7 @@ const products = {
 
     product1: {
 
-        PH:"https://shop.jcpremiere.com/products/b0115d193f8145ba975bca69debf4950/11111665140",
+        PH:"https://shop.jcpremiere.com/products/b0115d193f8145ba975bca69debf4950/11111510551",
         
         UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
         
@@ -20,7 +20,7 @@ const products = {
 
     product2: {
 
-        PH:"https://shop.jcpremiere.com/products/a75aa1718ca54ca8bbe2402b31ab71f7/11111665140",
+        PH:"https://shop.jcpremiere.com/products/a75aa1718ca54ca8bbe2402b31ab71f7/11111510551",
         
         UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
         
@@ -30,7 +30,7 @@ const products = {
 
     product3: {
 
-        PH:"https://shop.jcpremiere.com/products/c575d232587b468fb3f10f2c98a4bc68/11111665140",
+        PH:"https://shop.jcpremiere.com/products/c575d232587b468fb3f10f2c98a4bc68/11111510551",
         
         UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
         
@@ -40,7 +40,7 @@ const products = {
 
     product4: {
 
-        PH:"https://shop.jcpremiere.com/products/da47cc0c698f4a769c94ce2c8571a82f/11111665140",
+        PH:"https://shop.jcpremiere.com/products/da47cc0c698f4a769c94ce2c8571a82f/11111510551",
         
         UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
         
@@ -50,7 +50,7 @@ const products = {
 
     product5: {
 
-        PH:"https://shop.jcpremiere.com/products/bf60e4f81832484e8fa7a2df2ea6715f/11111665140",
+        PH:"https://shop.jcpremiere.com/products/bf60e4f81832484e8fa7a2df2ea6715f/11111510551",
         
         UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
         
@@ -60,7 +60,7 @@ const products = {
 
     product6: {
 
-        PH:"https://shop.jcpremiere.com/products/00b820458a0145de9e139c54e8ba94bb/11111665140",
+        PH:"https://shop.jcpremiere.com/products/00b820458a0145de9e139c54e8ba94bb/11111510551",
         
         UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
         
@@ -70,7 +70,7 @@ const products = {
 
     product7: {
 
-        PH:"https://shop.jcpremiere.com/products/bd18b75dfe7149caab976d6b7e836dd2/11111665140",
+        PH:"https://shop.jcpremiere.com/products/bd18b75dfe7149caab976d6b7e836dd2/11111510551",
         
         UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
         
@@ -80,89 +80,89 @@ const products = {
 
     product8: {
 
-        PH:"https://shop.jcpremiere.com/products/bdabad7af7004223a57ea943d2b786f1/11111665140",
+        PH:"https://shop.jcpremiere.com/products/bdabad7af7004223a57ea943d2b786f1/11111510551",
         
         UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
         
-        QA:"https://shop.jcpremiere.com/products/0045ded1459a4d04bd1554d3242524fd/11111665140",
+        QA:"https://shop.jcpremiere.com/products/0045ded1459a4d04bd1554d3242524fd/11111510551",
 
     },
 //Barley Milk Tea
     product9: {
 
-        PH:"https://shop.jcpremiere.com/products/1ca9d9badeb9406484dd4c803e6ebaf2/11111665140",
+        PH:"https://shop.jcpremiere.com/products/1ca9d9badeb9406484dd4c803e6ebaf2/11111510551",
         
-        UA:"https://shop.jcpremiere.com/products/8a9e0efc25304b71aba18870a574d686/11111665140",
+        UA:"https://shop.jcpremiere.com/products/8a9e0efc25304b71aba18870a574d686/11111510551",
         
-        QA:"https://shop.jcpremiere.com/products/1acd0b128c96495b9e977655c52bb83d/11111665140",
+        QA:"https://shop.jcpremiere.com/products/1acd0b128c96495b9e977655c52bb83d/11111510551",
 
     },
 //Organic Barley Juice
     product10: {
 
-        PH:"https://shop.jcpremiere.com/products/f5d855b789e24c43a4fe9632cb5ac644/11111665140",
+        PH:"https://shop.jcpremiere.com/products/f5d855b789e24c43a4fe9632cb5ac644/11111510551",
         
-        UA:"https://shop.jcpremiere.com/products/838969a9bd6146339d90b2fb9a723bec/11111665140",
+        UA:"https://shop.jcpremiere.com/products/838969a9bd6146339d90b2fb9a723bec/11111510551",
         
-        QA:"https://shop.jcpremiere.com/products/921a43c92d8f4380a18600fe9bc0dfa4/11111665140",
+        QA:"https://shop.jcpremiere.com/products/921a43c92d8f4380a18600fe9bc0dfa4/11111510551",
 
     },
 //Organic Barley Gold
     product11: {
 
-        PH:"https://shop.jcpremiere.com/products/a8048f7aa18d4d2f8bedd59b10a2b03c/11111665140",
+        PH:"https://shop.jcpremiere.com/products/a8048f7aa18d4d2f8bedd59b10a2b03c/11111510551",
         
-        UA:"https://shop.jcpremiere.com/products/51f21cff597543779b05242c4983b2b2/11111665140",
+        UA:"https://shop.jcpremiere.com/products/51f21cff597543779b05242c4983b2b2/11111510551",
         
-        QA:"https://shop.jcpremiere.com/products/2c0a0f58cd1d434ca566d805beb4f62f/11111665140",
+        QA:"https://shop.jcpremiere.com/products/2c0a0f58cd1d434ca566d805beb4f62f/11111510551",
 
     },
 //Choco Barley
     product12: {
 
-        PH:"https://shop.jcpremiere.com/products/a572ab3795834432b00fcdad0ed33d97/11111665140",
-        UA:"https://shop.jcpremiere.com/products/7479452303b649b0a007a2d0abd5cbac/11111665140",
-        QA:"https://shop.jcpremiere.com/products/ec9ac7c0aa174e8fa733ec047dbc964b/11111665140",
+        PH:"https://shop.jcpremiere.com/products/a572ab3795834432b00fcdad0ed33d97/11111510551",
+        UA:"https://shop.jcpremiere.com/products/7479452303b649b0a007a2d0abd5cbac/11111510551",
+        QA:"https://shop.jcpremiere.com/products/ec9ac7c0aa174e8fa733ec047dbc964b/11111510551",
 
     },
 //Ginger Barley 
     product13: {
 
-        PH:"https://shop.jcpremiere.com/products/0c43037e924049199f9a22f65ce589ae/11111665140",
-        UA:"https://shop.jcpremiere.com/products/a5ac5ebd11224ae48597a9fe6d436641/11111665140",
-        QA:"https://shop.jcpremiere.com/products/0ead0024a5894bc3b28f00b8f8f3dbad/11111665140",
+        PH:"https://shop.jcpremiere.com/products/0c43037e924049199f9a22f65ce589ae/11111510551",
+        UA:"https://shop.jcpremiere.com/products/a5ac5ebd11224ae48597a9fe6d436641/11111510551",
+        QA:"https://shop.jcpremiere.com/products/0ead0024a5894bc3b28f00b8f8f3dbad/11111510551",
 
     },
 //Barley Collagen 
     product14: {
 
-        PH:"https://shop.jcpremiere.com/products/7eb594a7ee6c48a0885a200bf43e85e4/11111665140",
+        PH:"https://shop.jcpremiere.com/products/7eb594a7ee6c48a0885a200bf43e85e4/11111510551",
         UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
-        QA:"https://shop.jcpremiere.com/products/76f0c895c164469cb50536e25db1664b/11111665140",
+        QA:"https://shop.jcpremiere.com/products/76f0c895c164469cb50536e25db1664b/11111510551",
 
     },
 //Barley Coffee Black 
     product15: {
 
-        PH:"https://shop.jcpremiere.com/products/58e3d79e18324d34a9d190070cb9c6f7/11111665140",
-        UA:"https://shop.jcpremiere.com/products/f5f01d2dbe16492ca77c15f89a2f741b/11111665140",
-        QA:"https://shop.jcpremiere.com/products/ab70488c8a3a48beaa59cf56d86e1024/11111665140",
+        PH:"https://shop.jcpremiere.com/products/58e3d79e18324d34a9d190070cb9c6f7/11111510551",
+        UA:"https://shop.jcpremiere.com/products/f5f01d2dbe16492ca77c15f89a2f741b/11111510551",
+        QA:"https://shop.jcpremiere.com/products/ab70488c8a3a48beaa59cf56d86e1024/11111510551",
 
     },
 //Barley Coffee Classic 
     product16: {
 
-        PH:"https://shop.jcpremiere.com/products/a52e38f1a59e4b0fa9c931621d6fa4c2/11111665140",
-        UA:"https://shop.jcpremiere.com/products/dd7f87179126433fa8877acff3f7e4fa/11111665140",
-        QA:"https://shop.jcpremiere.com/products/fd8f6e32e2114c55b470df6707a87253/11111665140",
+        PH:"https://shop.jcpremiere.com/products/a52e38f1a59e4b0fa9c931621d6fa4c2/11111510551",
+        UA:"https://shop.jcpremiere.com/products/dd7f87179126433fa8877acff3f7e4fa/11111510551",
+        QA:"https://shop.jcpremiere.com/products/fd8f6e32e2114c55b470df6707a87253/11111510551",
 
     },
 //Barley Coffee Mocha
     product17: {
 
-        PH:"https://shop.jcpremiere.com/products/6f2d9836253547e6a305f4f478979c2a/11111665140",
-        UA:"https://shop.jcpremiere.com/products/ae90196b00984bd2a040bca62b679e5e/11111665140",
-        QA:"https://shop.jcpremiere.com/products/30fc1b39df2c44b98038b41c2d0da398/11111665140",
+        PH:"https://shop.jcpremiere.com/products/6f2d9836253547e6a305f4f478979c2a/11111510551",
+        UA:"https://shop.jcpremiere.com/products/ae90196b00984bd2a040bca62b679e5e/11111510551",
+        QA:"https://shop.jcpremiere.com/products/30fc1b39df2c44b98038b41c2d0da398/11111510551",
 
     },
 //Barley Coffee Mocha Tub
@@ -184,7 +184,7 @@ const products = {
 //Barley Coffee Black Tub
     product20: {
 
-        PH:"https://shop.jcpremiere.com/products/a8b46b3b0b754b5db41b7679f2e948bb/11111665140",
+        PH:"https://shop.jcpremiere.com/products/a8b46b3b0b754b5db41b7679f2e948bb/11111510551",
         UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
         QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
 
@@ -192,7 +192,7 @@ const products = {
 //Organic Barley Juice In Tub
     product21: {
 
-        PH:"https://shop.jcpremiere.com/products/92f8095baf1b4a8f85775ef40a8a9543/11111665140",
+        PH:"https://shop.jcpremiere.com/products/92f8095baf1b4a8f85775ef40a8a9543/11111510551",
         UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
         QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
 
@@ -200,15 +200,15 @@ const products = {
 //Organic Barley Capsule 
     product22: {
 
-        PH:"https://shop.jcpremiere.com/products/5877e5b1d21e4d5db3cec55b3c5544f7/11111665140",
-        UA:"https://shop.jcpremiere.com/products/e1f2d5714d6048d6a93ea28f387195bf/11111665140",
+        PH:"https://shop.jcpremiere.com/products/5877e5b1d21e4d5db3cec55b3c5544f7/11111510551",
+        UA:"https://shop.jcpremiere.com/products/e1f2d5714d6048d6a93ea28f387195bf/11111510551",
         QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
 
     },
 //Kind Hydrating Matte Sunstick
     product23: {
 
-        PH:"https://shop.jcpremiere.com/products/85e785e46c91428abc402203af57988c/11111665140",
+        PH:"https://shop.jcpremiere.com/products/85e785e46c91428abc402203af57988c/11111510551",
         UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
         QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
 
@@ -216,15 +216,15 @@ const products = {
 //Kind Revitalizing Anti-Wrinkle Facial Cream 
     product24: {
 
-        PH:"https://shop.jcpremiere.com/products/a8e4f5e095014656a198a27fcec9eb4b/11111665140",
-        UA:"https://shop.jcpremiere.com/products/67bc19f9dae94e14aec60b26f4108eaf/11111665140",
-        QA:"https://shop.jcpremiere.com/products/70fd16cb8dbc4842a9e58b19d741a609/11111665140",
+        PH:"https://shop.jcpremiere.com/products/a8e4f5e095014656a198a27fcec9eb4b/11111510551",
+        UA:"https://shop.jcpremiere.com/products/67bc19f9dae94e14aec60b26f4108eaf/11111510551",
+        QA:"https://shop.jcpremiere.com/products/70fd16cb8dbc4842a9e58b19d741a609/11111510551",
 
     },
 //Calvi - C
     product25: {
 
-        PH:"https://shop.jcpremiere.com/products/ed228ebc49a9408b8d8f5b31e9d9d8c8/11111665140",
+        PH:"https://shop.jcpremiere.com/products/ed228ebc49a9408b8d8f5b31e9d9d8c8/11111510551",
         UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
         QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
 
@@ -232,9 +232,9 @@ const products = {
 //Kind Deep Hydrating Moisturizer 
     product26: {
 
-        PH:"https://shop.jcpremiere.com/products/b97e18b296c94e0184af95e670898043/11111665140",
-        UA:"https://shop.jcpremiere.com/products/62e5ecc2d92e4dda978946dc1591ff70/11111665140",
-        QA:"https://shop.jcpremiere.com/products/8dc8ca8a51564b209466dcb7f1ea4a10/11111665140",
+        PH:"https://shop.jcpremiere.com/products/b97e18b296c94e0184af95e670898043/11111510551",
+        UA:"https://shop.jcpremiere.com/products/62e5ecc2d92e4dda978946dc1591ff70/11111510551",
+        QA:"https://shop.jcpremiere.com/products/8dc8ca8a51564b209466dcb7f1ea4a10/11111510551",
 
     },
 //Kind Hydrating Cleansing Foam 
