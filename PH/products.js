@@ -95,7 +95,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/a8048f7aa18d4d2f8bedd59b10a2b03c/11111510551",
         UA:"https://shop.jcpremiere.com/products/51f21cff597543779b05242c4983b2b2/11111510551",
         QA:"https://shop.jcpremiere.com/products/2c0a0f58cd1d434ca566d805beb4f62f/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/1f05b62eb1ed432180b7d500b9d1a19a/11111510551",
+        
     },
 //Choco Barley
     product12: {
@@ -103,7 +104,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/a572ab3795834432b00fcdad0ed33d97/11111510551",
         UA:"https://shop.jcpremiere.com/products/7479452303b649b0a007a2d0abd5cbac/11111510551",
         QA:"https://shop.jcpremiere.com/products/ec9ac7c0aa174e8fa733ec047dbc964b/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/0e7fb6ae9bf34cbbbe59e4b50a6c799d/11111510551",
+        
     },
 //Ginger Barley 
     product13: {
@@ -136,7 +138,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/a52e38f1a59e4b0fa9c931621d6fa4c2/11111510551",
         UA:"https://shop.jcpremiere.com/products/dd7f87179126433fa8877acff3f7e4fa/11111510551",
         QA:"https://shop.jcpremiere.com/products/fd8f6e32e2114c55b470df6707a87253/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/feee2dc3991f4fd3ab90cbd71092c32f/11111510551",
+        
     },
 //Barley Coffee Mocha
     product17: {
@@ -144,7 +147,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/6f2d9836253547e6a305f4f478979c2a/11111510551",
         UA:"https://shop.jcpremiere.com/products/ae90196b00984bd2a040bca62b679e5e/11111510551",
         QA:"https://shop.jcpremiere.com/products/30fc1b39df2c44b98038b41c2d0da398/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/26bd93767ca74baaa72bb0a180bcbd6a/11111510551",
+        
     },
 //Barley Coffee Mocha Tub
     product18: {
@@ -184,7 +188,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/5877e5b1d21e4d5db3cec55b3c5544f7/11111510551",
         UA:"https://shop.jcpremiere.com/products/e1f2d5714d6048d6a93ea28f387195bf/11111510551",
         QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
-
+        ITA:"https://shop.jcpremiere.com/products/7d947b56d05046b2a65d819de7c01e01/11111510551",
+        
     },
 //Kind Hydrating Matte Sunstick
     product23: {
@@ -208,7 +213,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/ed228ebc49a9408b8d8f5b31e9d9d8c8/11111510551",
         UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
         QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
-
+        ITA:"https://shop.jcpremiere.com/products/0f341691ea344d36ac3480ded71c011e/11111510551",
+        
     },
 //Kind Deep Hydrating Moisturizer 
     product26: {
@@ -216,7 +222,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/b97e18b296c94e0184af95e670898043/11111510551",
         UA:"https://shop.jcpremiere.com/products/62e5ecc2d92e4dda978946dc1591ff70/11111510551",
         QA:"https://shop.jcpremiere.com/products/8dc8ca8a51564b209466dcb7f1ea4a10/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/fdde7312051d4bd492d08e14abb584e3/11111510551",
+        
     },
 //Kind Hydrating Cleansing Foam 
     product27: {
@@ -232,7 +239,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/d3c993ed5ad64d93a18b46b56c85ed01/11111510551",
         UA:"https://shop.jcpremiere.com/products/8611babce061456fbb1f1d0df9cc4957/11111510551",
         QA:"https://shop.jcpremiere.com/products/61111be0be354197bc161535c4004349/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/cf248c70530a44f1840d736d9ab266c3/11111510551",
+        
     },
 //Kind Intensifying BB Cream
     product29: {
@@ -248,7 +256,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/24ae0276a3dd46da8792c863394983f9/11111510551",
         UA:"https://shop.jcpremiere.com/products/1695f82c667d48f6aaca95ace8748125/11111510551",
         QA:"https://shop.jcpremiere.com/products/75846f93679f471686e964121a162ecf/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/da508c60b9a44114aeea221174f296cf/11111510551",
+        
     },
 //Kind Revitalizing Toner
     product31: {
@@ -264,7 +273,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/48d5a7e5106243f79db568a40517e039/11111510551",
         UA:"https://shop.jcpremiere.com/products/6c0c2b4d498e4e3082f263029a157294/11111510551",
         QA:"https://shop.jcpremiere.com/products/9deeb2c2ade94f6ca7354ed48998e037/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/c79f9efb8c8c4a5d8b2fa3fbd5db2053/11111510551",
+        
     },
 //Kind Intensive Whitening Facial Serum
     product33: {
@@ -296,7 +306,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/128491b082034368a50548c2cca2f7e1/11111510551",
         UA:"https://shop.jcpremiere.com/products/7401db0a1dd844a588ed76f3601e382e/11111510551",
         QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
-
+        ITA:"https://shop.jcpremiere.com/products/0087501ff43b4bf2adfa8678c9d2d210/11111510551",
+        
     },
 //Natures Own Conditioner 
     product37: {
@@ -462,7 +473,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/691db9409e7449ae879eb5632c12be3b/11111510551",
         UA:"https://shop.jcpremiere.com/products/8021bfee118b44b58e7bc716fa6305ed/11111510551",
         QA:"https://shop.jcpremiere.com/products/cd710a760adf4ac4af3781050022f1c6/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/8b9aef3647204bc5ae3028ddc03d8e47/11111510551",
+        
     },
 
 };
