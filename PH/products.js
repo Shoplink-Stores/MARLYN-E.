@@ -60,7 +60,6 @@ const products = {
     product8: {
 
         PH:"https://shop.jcpremiere.com/products/bdabad7af7004223a57ea943d2b786f1/",
-        UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
         QA:"https://shop.jcpremiere.com/products/0045ded1459a4d04bd1554d3242524fd/",
         ITA:"https://shop.jcpremiere.com/products/2403de7ac6bc4fb9bde9f03e41652030/",
         
