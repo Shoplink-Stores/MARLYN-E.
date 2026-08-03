@@ -1,48 +1,48 @@
 const products = {
-
+//Ticket: 12th Good Life Summit (SVIP 1)
     product1: {
 
         PH:"https://shop.jcpremiere.com/products/b0115d193f8145ba975bca69debf4950/",
         
     },
-
+//Ticket: 12th Good Life Summit (VIP 1)
     product2: {
 
         PH:"https://shop.jcpremiere.com/products/a75aa1718ca54ca8bbe2402b31ab71f7/",
         
     },
-
+//Ticket: 12th Good Life Summit (VIP 2)
     product3: {
 
         PH:"https://shop.jcpremiere.com/products/c575d232587b468fb3f10f2c98a4bc68/",
 
     },
-
+//Longevity Set
     product4: {
 
         PH:"https://shop.jcpremiere.com/products/da47cc0c698f4a769c94ce2c8571a82f/",
         
     },
-
+//Matcha Barley Latte
     product5: {
 
         PH:"https://shop.jcpremiere.com/products/bf60e4f81832484e8fa7a2df2ea6715f/",
         
     },
-
+//Pro-biotics 
     product6: {
 
         PH:"https://shop.jcpremiere.com/products/00b820458a0145de9e139c54e8ba94bb/",
         ITA:"https://shop.jcpremiere.com/products/18a5a694bfc9498f9347e99a044643fa/",
         
     },
-
+//Hello Yellow (Brew Up.classic.mocha.black.choco.obj)
     product7: {
 
         PH:"https://shop.jcpremiere.com/products/bd18b75dfe7149caab976d6b7e836dd2/",
         
     },
-
+//Barley Coffee Brew Up
     product8: {
 
         PH:"https://shop.jcpremiere.com/products/bdabad7af7004223a57ea943d2b786f1/",
