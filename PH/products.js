@@ -10,7 +10,7 @@ const products = {
 
     product1: {
 
-        PH:"https://shop.jcpremiere.com/products/b0115d193f8145ba975bca69debf4950/11111510551",
+        PH:"https://shop.jcpremiere.com/products/b0115d193f8145ba975bca69debf4950/",
         UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
         QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
         
@@ -18,7 +18,7 @@ const products = {
 
     product2: {
 
-        PH:"https://shop.jcpremiere.com/products/a75aa1718ca54ca8bbe2402b31ab71f7/11111510551",
+        PH:"https://shop.jcpremiere.com/products/a75aa1718ca54ca8bbe2402b31ab71f7/",
         UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
         QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
