@@ -11,19 +11,15 @@ const products = {
     product1: {
 
         PH:"https://shop.jcpremiere.com/products/b0115d193f8145ba975bca69debf4950/11111510551",
-        
         UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
-        
         QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
-
+        
     },
 
     product2: {
 
         PH:"https://shop.jcpremiere.com/products/a75aa1718ca54ca8bbe2402b31ab71f7/11111510551",
-        
         UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
-        
         QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
@@ -31,9 +27,7 @@ const products = {
     product3: {
 
         PH:"https://shop.jcpremiere.com/products/c575d232587b468fb3f10f2c98a4bc68/11111510551",
-        
         UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
-        
         QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
@@ -41,9 +35,7 @@ const products = {
     product4: {
 
         PH:"https://shop.jcpremiere.com/products/da47cc0c698f4a769c94ce2c8571a82f/11111510551",
-        
         UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
-        
         QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
@@ -51,9 +43,7 @@ const products = {
     product5: {
 
         PH:"https://shop.jcpremiere.com/products/bf60e4f81832484e8fa7a2df2ea6715f/11111510551",
-        
         UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
-        
         QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
@@ -61,9 +51,7 @@ const products = {
     product6: {
 
         PH:"https://shop.jcpremiere.com/products/00b820458a0145de9e139c54e8ba94bb/11111510551",
-        
         UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
-        
         QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
@@ -71,9 +59,7 @@ const products = {
     product7: {
 
         PH:"https://shop.jcpremiere.com/products/bd18b75dfe7149caab976d6b7e836dd2/11111510551",
-        
         UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
-        
         QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
@@ -81,19 +67,16 @@ const products = {
     product8: {
 
         PH:"https://shop.jcpremiere.com/products/bdabad7af7004223a57ea943d2b786f1/11111510551",
-        
         UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
-        
         QA:"https://shop.jcpremiere.com/products/0045ded1459a4d04bd1554d3242524fd/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/2403de7ac6bc4fb9bde9f03e41652030/11111510551",
+        
     },
 //Barley Milk Tea
     product9: {
 
         PH:"https://shop.jcpremiere.com/products/1ca9d9badeb9406484dd4c803e6ebaf2/11111510551",
-        
         UA:"https://shop.jcpremiere.com/products/8a9e0efc25304b71aba18870a574d686/11111510551",
-        
         QA:"https://shop.jcpremiere.com/products/1acd0b128c96495b9e977655c52bb83d/11111510551",
 
     },
@@ -101,19 +84,16 @@ const products = {
     product10: {
 
         PH:"https://shop.jcpremiere.com/products/f5d855b789e24c43a4fe9632cb5ac644/11111510551",
-        
         UA:"https://shop.jcpremiere.com/products/838969a9bd6146339d90b2fb9a723bec/11111510551",
-        
         QA:"https://shop.jcpremiere.com/products/921a43c92d8f4380a18600fe9bc0dfa4/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/fc459eb133054aee928bc7a3bf0f9883/11111510551",
+        
     },
 //Organic Barley Gold
     product11: {
 
         PH:"https://shop.jcpremiere.com/products/a8048f7aa18d4d2f8bedd59b10a2b03c/11111510551",
-        
         UA:"https://shop.jcpremiere.com/products/51f21cff597543779b05242c4983b2b2/11111510551",
-        
         QA:"https://shop.jcpremiere.com/products/2c0a0f58cd1d434ca566d805beb4f62f/11111510551",
 
     },
@@ -139,7 +119,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/7eb594a7ee6c48a0885a200bf43e85e4/11111510551",
         UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
         QA:"https://shop.jcpremiere.com/products/76f0c895c164469cb50536e25db1664b/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/7a20458f5ce6443c82aa1b2522ef1553/11111510551",
+        
     },
 //Barley Coffee Black 
     product15: {
