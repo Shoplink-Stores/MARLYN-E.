@@ -53,7 +53,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/00b820458a0145de9e139c54e8ba94bb/11111510551",
         UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
         QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
-
+        ITA:"https://shop.jcpremiere.com/products/18a5a694bfc9498f9347e99a044643fa/11111510551",
+        
     },
 
     product7: {
@@ -78,7 +79,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/1ca9d9badeb9406484dd4c803e6ebaf2/11111510551",
         UA:"https://shop.jcpremiere.com/products/8a9e0efc25304b71aba18870a574d686/11111510551",
         QA:"https://shop.jcpremiere.com/products/1acd0b128c96495b9e977655c52bb83d/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/ab67c9467c7942f687ab61ec26040983/11111510551
     },
 //Organic Barley Juice
     product10: {
@@ -113,7 +114,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/0c43037e924049199f9a22f65ce589ae/11111510551",
         UA:"https://shop.jcpremiere.com/products/a5ac5ebd11224ae48597a9fe6d436641/11111510551",
         QA:"https://shop.jcpremiere.com/products/0ead0024a5894bc3b28f00b8f8f3dbad/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/b50ef9762908474596347a4d0a7a8afb/11111510551",
+        
     },
 //Barley Collagen 
     product14: {
@@ -130,7 +132,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/58e3d79e18324d34a9d190070cb9c6f7/11111510551",
         UA:"https://shop.jcpremiere.com/products/f5f01d2dbe16492ca77c15f89a2f741b/11111510551",
         QA:"https://shop.jcpremiere.com/products/ab70488c8a3a48beaa59cf56d86e1024/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/3b53e753eae84b68a7f05271512c5e5f/11111510551",
+    
     },
 //Barley Coffee Classic 
     product16: {
@@ -197,7 +200,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/85e785e46c91428abc402203af57988c/11111510551",
         UA:"https://shoplink-stores.github.io/MARLYN-E.PH/not-available.html",
         QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
-
+        ITA:"https://shop.jcpremiere.com/products/77445c12e0e648cf8194a13e3afebb56/11111510551",
+        
     },
 //Kind Revitalizing Anti-Wrinkle Facial Cream 
     product24: {
@@ -295,7 +299,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/0bacf12d76c54111836f2f671f952b48/11111510551",
         UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
         QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
-
+        ITA:"https://shop.jcpremiere.com/products/cd97a67c22ab41279e66017f41ddd0c6/11111510551",
+        
     },
 //4Green 
     product35: {
@@ -320,7 +325,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/d04cee70548e4f5cbf4d0bdd0fa155b9/11111510551",
         UA:"https://shop.jcpremiere.com/products/c6ec6fcb15444c1e9394d4363de55c95/11111510551",
         QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
-
+        ITA:"https://shop.jcpremiere.com/products/3430704caf9b4a82b994f9a4441526da/11111510551",
+        
     },
 //Natures Own Shampoo 
     product38: {
@@ -328,7 +334,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/3b2acec7858446ee9ba3b00b0e077f6f/11111510551",
         UA:"https://shop.jcpremiere.com/products/6f23238a5e5146a6941cc502ebe15fe2/11111510551",
         QA:"https://shoplink-stores.github.io/MARLYN-E.PH/not-available.html",
-
+        ITA:"https://shop.jcpremiere.com/products/39bb02b4294b4c8b88f704e9081c074f/11111510551",
+        
     },
 //Natures Own Bodywash 
     product39: {
@@ -336,7 +343,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/38a6f4f50eea46688e843ad74ae85314/11111510551",
         UA:"https://shop.jcpremiere.com/products/a48deac8192747449c68f6c6398c8d37/11111510551",
         QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
-
+        ITA:"https://shop.jcpremiere.com/products/814b78077fda4e58ab8c6c4e664c6e9f/11111510551",
+        
     },
 //Omni White Soap 
     product40: {
@@ -353,7 +361,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/e5baf433b8334fdba90bd84fa11edcb9/11111510551",
         UA:"https://shop.jcpremiere.com/products/417371c070b342ef99317e0e71973bc4/11111510551",
         QA:"https://shop.jcpremiere.com/products/30bd38ae46f9452b87efd72519cb972e/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/fbbb3073ba1b4ef991b5e2203cec2125/11111510551",
+        
     },
 //Omni White Kojic Soap 
     product42: {
@@ -361,7 +370,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/f1f55343af394008ad66ca572a3bdba2/11111510551",
         UA:"https://shop.jcpremiere.com/products/a2abc7e15e584b928333e38ea38a05bb/11111510551",
         QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
-
+        ITA:"https://shop.jcpremiere.com/products/e39655c24ef34c2da99dba0884157235/11111510551",
+        
     },
 //K-Pads (Night) 
     product43: {
@@ -369,7 +379,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/18e6d917128c4d0ba7ed97c868ecf22a/11111510551",
         UA:"https://shop.jcpremiere.com/products/e89e85793b434f8e83b0a5b582447d5b/11111510551",
         QA:"https://shop.jcpremiere.com/products/55ca51551bef40e4ba7caf98794390e2/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/f79a08d1da8746a7a4674573670e9295/11111510551",
+        
     },
 //K-Pads (panty liner)
     product44: {
@@ -377,7 +388,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/bca201e48ae444358c5d351f58d8e10d/11111510551",
         UA:"https://shop.jcpremiere.com/products/24c8d5a61d61459f9c73483c86ae464d/11111510551",
         QA:"https://shop.jcpremiere.com/products/9f13b068c2a144e2985a14cea7191d43/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/662b1bb94b144a34bb5098890297b3b6/11111510551",
+        
     },
  //Weight Loss Program 
     product45: {
@@ -407,6 +419,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/bbef6e8e92384086bb8354100c429cf4/11111510551",
         UA:"https://shop.jcpremiere.com/products/197297144a6e4940b79bc5b008c70919/11111510551",
         QA:"https://shop.jcpremiere.com/products/866d91616dc944b78af90833f63d64b5/11111510551",
+        ITA:"https://shop.jcpremiere.com/products/adb1f9c4fb494559891ce52686ff935b/11111510551",
         
     },
  //Kind Browcara Brown
@@ -415,6 +428,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/b32625bc59684b6d80a7afcdd1fbf175/11111510551",
         UA:"https://shop.jcpremiere.com/products/c211e5d040244cf1bcd7fa0b837ecdb6/11111510551",
         QA:"https://shop.jcpremiere.com/products/7c7ab83c557944bf8905e45b3897b857/11111510551",
+        ITA:"https://shop.jcpremiere.com/products/5e7583f630ee495883ab783ba00008e7/11111510551",
         
     },
 //Kind Browcara Clear
@@ -423,6 +437,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/5a00887edd844e42ba81b5813a3e1b9f/11111510551",
         UA:"https://shop.jcpremiere.com/products/6969748fe73f4e1a90462ebdb474701e/11111510551",
         QA:"https://shop.jcpremiere.com/products/40ab0a1c62fb49e788ccba5076a49400/11111510551",
+        ITA:"https://shop.jcpremiere.com/products/19174b60f30d4334b8776c1d5d3ddb49/11111510551",
         
     },
 //Kind Lashes
@@ -431,6 +446,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/83c13d06007b4a34b3da608edcccc3ef/11111510551",
         UA:"https://shop.jcpremiere.com/products/0f46372dc14c4ae2992cee3e0bbcd64d/11111510551",
         QA:"https://shop.jcpremiere.com/products/5a3be64c0a784f2697cb11344b423361/11111510551",
+        ITA:"https://shop.jcpremiere.com/products/f66f43e6ff454e1f97707caf235ae469/11111510551",
         
     },
 //Kind Paint Blossom 
