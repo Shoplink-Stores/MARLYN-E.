@@ -205,7 +205,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/a8e4f5e095014656a198a27fcec9eb4b/11111510551",
         UA:"https://shop.jcpremiere.com/products/67bc19f9dae94e14aec60b26f4108eaf/11111510551",
         QA:"https://shop.jcpremiere.com/products/70fd16cb8dbc4842a9e58b19d741a609/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/bf6633e089104994ada2e09c82aa97f8/11111510551",
+        
     },
 //Calvi - C
     product25: {
@@ -231,7 +232,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/ba041fabc2ba4bce88fe11da3dcb18b9/11111510551",
         UA:"https://shop.jcpremiere.com/products/0e594d613595449d84f655ab8f17a32f/11111510551",
         QA:"https://shop.jcpremiere.com/products/3c929be462034373b25d12ca0bf5d742/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/58fc5579c98a4f32bd176ee5c7190db3/11111510551",
+        
     },
 //Kind Intensive Whitening Facial Cream 
     product28: {
@@ -248,7 +250,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/a10a8a2fefe64b8185d72a24ee3af5fc/11111510551",
         UA:"https://shop.jcpremiere.com/products/45dcf7f9f36d4714864070f0827294ba/11111510551",
         QA:"https://shop.jcpremiere.com/products/de7550963e8b454388d09e7acb10848f/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/28b4b33c5ef346e895766288ac0cd04a/11111510551",
+        
     },
 //Kind Revitalizing Eye Cream 
     product30: {
@@ -265,7 +268,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/25ad09edae604d33a31e86d268a0d274/11111510551",
         UA:"https://shop.jcpremiere.com/products/1d3fde18436d423ea3d8e271cff67315/11111510551",
         QA:"https://shop.jcpremiere.com/products/191bf74a5bb441cba8d565f1191b1c6c/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/c0a4309daa204126a36e27e00f101082/11111510551",
+        
     },
 //Kind Revitalizing Anti-Wrinkle Facial Serum 
     product32: {
@@ -282,7 +286,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/470ce6bcaa584c228745bc36b4b3fe76/11111510551",
         UA:"https://shop.jcpremiere.com/products/fbe05e9e65fa43beb7fabfd8c4cb37f4/11111510551",
         QA:"https://shop.jcpremiere.com/products/78b7c5aaea1441009cdbed9b7aaf6c50/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/1a11eeb0aba042929e5653c5e68d89b1/11111510551",
+        
     },
 //GlutaFit
     product34: {
@@ -339,7 +344,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/81e6163cec1343c1ba9ada11a5e5bfa3/11111510551",
         UA:"https://shop.jcpremiere.com/products/9042609158a64aed890be3ccf03ca464/11111510551",
         QA:"https://shop.jcpremiere.com/products/718ab68020cd4665a34edf6afb2f1e6e/11111510551",
-
+        ITA:"https://shop.jcpremiere.com/products/2da4002ed84b4cb3a3013c33fc56709b/11111510551",
+        
     },
 //K-Pads (Day)
     product41: {
@@ -433,6 +439,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/dcd64925753c4f18a470a9fec301df0a/11111510551",
         UA:"https://shop.jcpremiere.com/products/147047482ad341e3bc71a8a3c785fec8/11111510551",
         QA:"https://shop.jcpremiere.com/products/685fe9052720432486cdbbf04bffa07a/11111510551",
+        ITA:"https://shop.jcpremiere.com/products/3e096bc2402842408ce1c18ce9966700/11111510551",
         
     },
 //Kind Paint Haven
@@ -441,6 +448,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/03dd60cfd1fa44019b2c1137ad844338/11111510551",
         UA:"https://shop.jcpremiere.com/products/cc2ef2e541624113bc972653098768af/11111510551",
         QA:"https://shop.jcpremiere.com/products/17c51fcd24504235822e155f3f6d3a1c/11111510551",
+        ITA:"https://shop.jcpremiere.com/products/9be5a4466afe488d81c6d7bc10dcfa60/11111510551",
         
     },
 //Kind Paint Savvy
@@ -449,6 +457,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/0be1e413c294418bb6a6d01fa80d560c/11111510551",
         UA:"https://shop.jcpremiere.com/products/4dc1e2be8d28486fa2b3516838a36d7e/11111510551",
         QA:"https://shop.jcpremiere.com/products/14528689d5834dd69d6753eec8e2855c/11111510551",
+        ITA:"https://shop.jcpremiere.com/products/58ed33cec7c649a6aef940f825b64748/11111510551",
         
     },
 //Kind Paint Shy
@@ -457,6 +466,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/a4cc1167ad2c4fae8a95d96641554335/11111510551",
         UA:"https://shop.jcpremiere.com/products/7a7dde249a7b4aaeb2d7bcfdbc8bfda4/11111510551",
         QA:"https://shop.jcpremiere.com/products/58f32c9a9c204de6998c91f82cca0e1a/11111510551",
+        ITA:"https://shop.jcpremiere.com/products/11785b6e4ef546bca3f1528a41f330c8/11111510551",
         
     },
 //Kind Paint Sleek
@@ -465,6 +475,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/c72250a6a21444fe887ab132556f5fb2/11111510551",
         UA:"https://shop.jcpremiere.com/products/1e6ab20067bc435b91d72db1d21373bb/11111510551",
         QA:"https://shop.jcpremiere.com/products/8af8df41eee749ab9f76a1fedfb908a3/11111510551",
+        ITA:"https://shop.jcpremiere.com/products/25db8ce8a1874ea7ac8379b9496c5711/11111510551",
         
     },
 //Kind Paint Sweet 
