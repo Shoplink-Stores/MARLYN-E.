@@ -82,7 +82,7 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/bdabad7af7004223a57ea943d2b786f1/11111510551",
         
-        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
         
         QA:"https://shop.jcpremiere.com/products/0045ded1459a4d04bd1554d3242524fd/11111510551",
 
@@ -137,7 +137,7 @@ const products = {
     product14: {
 
         PH:"https://shop.jcpremiere.com/products/7eb594a7ee6c48a0885a200bf43e85e4/11111510551",
-        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
         QA:"https://shop.jcpremiere.com/products/76f0c895c164469cb50536e25db1664b/11111510551",
 
     },
@@ -169,32 +169,32 @@ const products = {
     product18: {
 
         PH:"",
-        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 //Barley Coffee Classic Tub
     product19: {
 
         PH:"",
-        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 //Barley Coffee Black Tub
     product20: {
 
         PH:"https://shop.jcpremiere.com/products/a8b46b3b0b754b5db41b7679f2e948bb/11111510551",
-        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 //Organic Barley Juice In Tub
     product21: {
 
         PH:"https://shop.jcpremiere.com/products/92f8095baf1b4a8f85775ef40a8a9543/11111510551",
-        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 //Organic Barley Capsule 
@@ -202,15 +202,15 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/5877e5b1d21e4d5db3cec55b3c5544f7/11111510551",
         UA:"https://shop.jcpremiere.com/products/e1f2d5714d6048d6a93ea28f387195bf/11111510551",
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 //Kind Hydrating Matte Sunstick
     product23: {
 
         PH:"https://shop.jcpremiere.com/products/85e785e46c91428abc402203af57988c/11111510551",
-        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        UA:"https://shoplink-stores.github.io/MARLYN-E.PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 //Kind Revitalizing Anti-Wrinkle Facial Cream 
@@ -225,8 +225,8 @@ const products = {
     product25: {
 
         PH:"https://shop.jcpremiere.com/products/ed228ebc49a9408b8d8f5b31e9d9d8c8/11111510551",
-        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 //Kind Deep Hydrating Moisturizer 
@@ -297,8 +297,8 @@ const products = {
     product34: {
 
         PH:"https://shop.jcpremiere.com/products/0bacf12d76c54111836f2f671f952b48/11111510551",
-        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 //4Green 
@@ -306,7 +306,7 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/a0a6b6457a0045b8b0fdf57fd74c6337/11111510551",
         UA:"https://shop.jcpremiere.com/products/ddf3dc1b0bab4846bbd23513c5e68126/11111510551",
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 //Omni Fit
@@ -314,7 +314,7 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/128491b082034368a50548c2cca2f7e1/11111510551",
         UA:"https://shop.jcpremiere.com/products/7401db0a1dd844a588ed76f3601e382e/11111510551",
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 //Natures Own Conditioner 
@@ -322,7 +322,7 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/d04cee70548e4f5cbf4d0bdd0fa155b9/11111510551",
         UA:"https://shop.jcpremiere.com/products/c6ec6fcb15444c1e9394d4363de55c95/11111510551",
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 //Natures Own Shampoo 
@@ -330,7 +330,7 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/3b2acec7858446ee9ba3b00b0e077f6f/11111510551",
         UA:"https://shop.jcpremiere.com/products/6f23238a5e5146a6941cc502ebe15fe2/11111510551",
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E.PH/not-available.html",
 
     },
 //Natures Own Bodywash 
@@ -338,7 +338,7 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/38a6f4f50eea46688e843ad74ae85314/11111510551",
         UA:"https://shop.jcpremiere.com/products/a48deac8192747449c68f6c6398c8d37/11111510551",
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 //Omni White Soap 
@@ -362,7 +362,7 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/f1f55343af394008ad66ca572a3bdba2/11111510551",
         UA:"https://shop.jcpremiere.com/products/a2abc7e15e584b928333e38ea38a05bb/11111510551",
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 //K-Pads (Night) 
@@ -385,16 +385,16 @@ const products = {
     product45: {
 
         PH:"https://shop.jcpremiere.com/products/bb44713f9c6246e8bff0e2414f666da6/11111510551",
-        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 //Cell Detox Program
     product46: {
 
         PH:"https://shop.jcpremiere.com/products/068088392afe4e92bf23ae6d5d294cbd/11111510551",
-        UA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
-        QA:"https://shoplink-stores.github.io/ARCELI-R/PH/not-available.html",
+        UA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
+        QA:"https://shoplink-stores.github.io/MARLYN-E./PH/not-available.html",
 
     },
 //Immunity Booster Program 
