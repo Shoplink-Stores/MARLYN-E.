@@ -48,7 +48,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/bdabad7af7004223a57ea943d2b786f1/",
         QA:"https://shop.jcpremiere.com/products/0045ded1459a4d04bd1554d3242524fd/",
         ITA:"https://shop.jcpremiere.com/products/2403de7ac6bc4fb9bde9f03e41652030/",
-        
+        SGP:"https://shop.jcpremiere.com/products/a4c3f50d25f441bf87c614f4962774e5/",
+    
     },
 //Barley Milk Tea
     product9: {
@@ -75,7 +76,8 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/51f21cff597543779b05242c4983b2b2/",
         QA:"https://shop.jcpremiere.com/products/2c0a0f58cd1d434ca566d805beb4f62f/",
         ITA:"https://shop.jcpremiere.com/products/1f05b62eb1ed432180b7d500b9d1a19a/",
-        
+        SGP:"https://shop.jcpremiere.com/products/91dd2d2d0b0341c69b5a52bed9e9a1e5/",
+    
     },
 //Choco Barley
     product12: {
@@ -93,6 +95,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/a5ac5ebd11224ae48597a9fe6d436641/",
         QA:"https://shop.jcpremiere.com/products/0ead0024a5894bc3b28f00b8f8f3dbad/",
         ITA:"https://shop.jcpremiere.com/products/b50ef9762908474596347a4d0a7a8afb/",
+        SGP:"https://shop.jcpremiere.com/products/7ea2a5fbb7bd484f88a4bcfc5c04939b/",
         
     },
 //Barley Collagen 
@@ -101,7 +104,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/7eb594a7ee6c48a0885a200bf43e85e4/",
         QA:"https://shop.jcpremiere.com/products/76f0c895c164469cb50536e25db1664b/",
         ITA:"https://shop.jcpremiere.com/products/7a20458f5ce6443c82aa1b2522ef1553/",
-        
+        SGP:"https://shop.jcpremiere.com/products/7914ced666e54c42a0301b9d808406bd/",
     },
 //Barley Coffee Black 
     product15: {
@@ -110,7 +113,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/f5f01d2dbe16492ca77c15f89a2f741b/",
         QA:"https://shop.jcpremiere.com/products/ab70488c8a3a48beaa59cf56d86e1024/",
         ITA:"https://shop.jcpremiere.com/products/3b53e753eae84b68a7f05271512c5e5f/",
-    
+        SGP:"https://shop.jcpremiere.com/products/0e7ee0f8044b4dcfafcc0b8e1fded761/",
     },
 //Barley Coffee Classic 
     product16: {
@@ -160,7 +163,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/5877e5b1d21e4d5db3cec55b3c5544f7/",
         UA:"https://shop.jcpremiere.com/products/e1f2d5714d6048d6a93ea28f387195bf/",
         ITA:"https://shop.jcpremiere.com/products/7d947b56d05046b2a65d819de7c01e01/",
-        
+        SGP:"https://shop.jcpremiere.com/products/2d6a45c0d856493c9e8b7308c9af2bf0/",
     },
 //Kind Hydrating Matte Sunstick
     product23: {
@@ -176,14 +179,14 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/67bc19f9dae94e14aec60b26f4108eaf/",
         QA:"https://shop.jcpremiere.com/products/70fd16cb8dbc4842a9e58b19d741a609/",
         ITA:"https://shop.jcpremiere.com/products/bf6633e089104994ada2e09c82aa97f8/",
-        
+        SGP:"https://shop.jcpremiere.com/products/71843314a0424c039ead24f97d3a6c47/",
     },
 //Calvi - C
     product25: {
 
         PH:"https://shop.jcpremiere.com/products/ed228ebc49a9408b8d8f5b31e9d9d8c8/",
         ITA:"https://shop.jcpremiere.com/products/0f341691ea344d36ac3480ded71c011e/",
-        
+        SGP:"https://shop.jcpremiere.com/products/7aaebb0492004913b02453e695169749/",
     },
 //Kind Deep Hydrating Moisturizer 
     product26: {
@@ -192,6 +195,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/62e5ecc2d92e4dda978946dc1591ff70/",
         QA:"https://shop.jcpremiere.com/products/8dc8ca8a51564b209466dcb7f1ea4a10/",
         ITA:"https://shop.jcpremiere.com/products/fdde7312051d4bd492d08e14abb584e3/",
+        SGP:"https://shop.jcpremiere.com/products/c5cad460edca4cd386864836662ced7b/",
         
     },
 //Kind Hydrating Cleansing Foam 
@@ -201,7 +205,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/0e594d613595449d84f655ab8f17a32f/",
         QA:"https://shop.jcpremiere.com/products/3c929be462034373b25d12ca0bf5d742/",
         ITA:"https://shop.jcpremiere.com/products/58fc5579c98a4f32bd176ee5c7190db3/",
-        
+        SGP:"https://shop.jcpremiere.com/products/73346f4591df40d8aa0315e2de77e8cd/",
     },
 //Kind Intensive Whitening Facial Cream 
     product28: {
@@ -210,6 +214,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/8611babce061456fbb1f1d0df9cc4957/",
         QA:"https://shop.jcpremiere.com/products/61111be0be354197bc161535c4004349/",
         ITA:"https://shop.jcpremiere.com/products/cf248c70530a44f1840d736d9ab266c3/",
+        SGP:"https://shop.jcpremiere.com/products/49b62a425ec145ad994a17c28253e0a5/",
         
     },
 //Kind Intensifying BB Cream
@@ -228,6 +233,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/1695f82c667d48f6aaca95ace8748125/",
         QA:"https://shop.jcpremiere.com/products/75846f93679f471686e964121a162ecf/",
         ITA:"https://shop.jcpremiere.com/products/da508c60b9a44114aeea221174f296cf/",
+        SGP:"https://shop.jcpremiere.com/products/900f0a4c53d5407ea36fc39cbd0cfe31/",
         
     },
 //Kind Revitalizing Toner
