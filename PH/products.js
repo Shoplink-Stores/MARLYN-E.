@@ -158,6 +158,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/26bd93767ca74baaa72bb0a180bcbd6a/",
         SGP:"https://shop.jcpremiere.com/products/2d16aec3552b4bdeb4ef56718319775d/",
         TWN:"https://shop.jcpremiere.com/products/43898ecd9d974ceeb6802cec367e110d/",
+        CA:"https://shop.jcpremiere.com/products/d79cb67f46aa411288da8275fc66f06b/",
     
     },
 //Barley Coffee Mocha Tub
@@ -177,7 +178,8 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/a8b46b3b0b754b5db41b7679f2e948bb/",
         SGP:"https://shop.jcpremiere.com/products/e9371aa17a25430887fbc9a7fd073a41/",
-        
+        CA:"https://shop.jcpremiere.com/products/2e3916163ddd4d98907f9b8e8ffcc20b/",
+    
     },
 //Organic Barley Juice In Tub
     product21: {
@@ -193,6 +195,8 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/e1f2d5714d6048d6a93ea28f387195bf/",
         ITA:"https://shop.jcpremiere.com/products/7d947b56d05046b2a65d819de7c01e01/",
         SGP:"https://shop.jcpremiere.com/products/2d6a45c0d856493c9e8b7308c9af2bf0/",
+        CA:"https://shop.jcpremiere.com/products/e766157673cd4171a657477da683db54/",
+    
     },
 //Kind Hydrating Matte Sunstick
     product23: {
@@ -210,6 +214,8 @@ const products = {
         QA:"https://shop.jcpremiere.com/products/70fd16cb8dbc4842a9e58b19d741a609/",
         ITA:"https://shop.jcpremiere.com/products/bf6633e089104994ada2e09c82aa97f8/",
         SGP:"https://shop.jcpremiere.com/products/71843314a0424c039ead24f97d3a6c47/",
+        CA:"https://shop.jcpremiere.com/products/ab01f8147b274831bf0d7480a7e7cd3a/",
+    
     },
 //Calvi - C
     product25: {
@@ -226,7 +232,8 @@ const products = {
         QA:"https://shop.jcpremiere.com/products/8dc8ca8a51564b209466dcb7f1ea4a10/",
         ITA:"https://shop.jcpremiere.com/products/fdde7312051d4bd492d08e14abb584e3/",
         SGP:"https://shop.jcpremiere.com/products/c5cad460edca4cd386864836662ced7b/",
-        
+        CA:"https://shop.jcpremiere.com/products/2c9dfac16638420da3d089ba1913d1c3/",
+    
     },
 //Kind Hydrating Cleansing Foam 
     product27: {
@@ -283,7 +290,8 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/6c0c2b4d498e4e3082f263029a157294/",
         QA:"https://shop.jcpremiere.com/products/9deeb2c2ade94f6ca7354ed48998e037/",
         ITA:"https://shop.jcpremiere.com/products/c79f9efb8c8c4a5d8b2fa3fbd5db2053/",
-        
+        CA:"https://shop.jcpremiere.com/products/b168e60c779246059a054cf2394b3f0b/",
+    
     },
 //Kind Intensive Whitening Facial Serum
     product33: {
@@ -308,7 +316,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/a0a6b6457a0045b8b0fdf57fd74c6337/",
         UA:"https://shop.jcpremiere.com/products/ddf3dc1b0bab4846bbd23513c5e68126/",
         SGP:"https://shop.jcpremiere.com/products/72fab8c31e3040bf96b139745ebfb7a4/",
-        
+        CA:https://shop.jcpremiere.com/products/392e94c557d848cd956fd4a5385ca676/",
+            
     },
 //Omni Fit
     product36: {
@@ -317,7 +326,8 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/7401db0a1dd844a588ed76f3601e382e/",
         ITA:"https://shop.jcpremiere.com/products/0087501ff43b4bf2adfa8678c9d2d210/",
         SGP:"https://shop.jcpremiere.com/products/16ae3ff8052847c28fba761c26651482/",
-        
+        CA:"https://shop.jcpremiere.com/products/a81fd025929b45749c8b23c6663fcb71/",
+    
     },
 //Natures Own Conditioner 
     product37: {
@@ -337,6 +347,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/39bb02b4294b4c8b88f704e9081c074f/",
         SGP:"https://shop.jcpremiere.com/products/f2aae5fe39f94e05aede9904af86b601/",
         TWN:"https://shop.jcpremiere.com/products/917e3773ab254af7ad3f9bccf20f1385/",
+        CA:"https://shop.jcpremiere.com/products/8a29f7d308784a04a4b5d35ca7b60fe5/",
     
     },
 //Natures Own Bodywash 
@@ -347,6 +358,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/814b78077fda4e58ab8c6c4e664c6e9f/",
         SGP:"https://shop.jcpremiere.com/products/ce64646c0c8a47c29f951a41d06a99f5/",
         TWN:"https://shop.jcpremiere.com/products/1749ccbb92ea4e57b27fb86f30912a10/",
+        CA:"https://shop.jcpremiere.com/products/75fbdf056e0e4b6886b2fad945bce498/",
     
     },
 //Omni White Soap 
