@@ -67,7 +67,8 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/838969a9bd6146339d90b2fb9a723bec/",
         QA:"https://shop.jcpremiere.com/products/921a43c92d8f4380a18600fe9bc0dfa4/",
         ITA:"https://shop.jcpremiere.com/products/fc459eb133054aee928bc7a3bf0f9883/",
-        
+        SGP:"https://shop.jcpremiere.com/products/cbae1f27c4d7425cbc558ec4bb9db5e9/",
+    
     },
 //Organic Barley Gold
     product11: {
@@ -86,7 +87,8 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/7479452303b649b0a007a2d0abd5cbac/",
         QA:"https://shop.jcpremiere.com/products/ec9ac7c0aa174e8fa733ec047dbc964b/",
         ITA:"https://shop.jcpremiere.com/products/0e7fb6ae9bf34cbbbe59e4b50a6c799d/",
-        
+        SGP:"https://shop.jcpremiere.com/products/233ab11b33384a5fb41fdc61d2d2402c/",
+    
     },
 //Ginger Barley 
     product13: {
@@ -122,6 +124,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/dd7f87179126433fa8877acff3f7e4fa/",
         QA:"https://shop.jcpremiere.com/products/fd8f6e32e2114c55b470df6707a87253/",
         ITA:"https://shop.jcpremiere.com/products/feee2dc3991f4fd3ab90cbd71092c32f/",
+        SGP:"https://shop.jcpremiere.com/products/e5268e6b3d144a3a8db6d1041cc47b99/",
         
     },
 //Barley Coffee Mocha
@@ -131,6 +134,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/ae90196b00984bd2a040bca62b679e5e/",
         QA:"https://shop.jcpremiere.com/products/30fc1b39df2c44b98038b41c2d0da398/",
         ITA:"https://shop.jcpremiere.com/products/26bd93767ca74baaa72bb0a180bcbd6a/",
+        SGP:"https://shop.jcpremiere.com/products/2d16aec3552b4bdeb4ef56718319775d/",
         
     },
 //Barley Coffee Mocha Tub
@@ -243,6 +247,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/1d3fde18436d423ea3d8e271cff67315/",
         QA:"https://shop.jcpremiere.com/products/191bf74a5bb441cba8d565f1191b1c6c/",
         ITA:"https://shop.jcpremiere.com/products/c0a4309daa204126a36e27e00f101082/",
+        SGP:"https://shop.jcpremiere.com/products/197816cc7baa442b91b192e0cccee9da/",
         
     },
 //Kind Revitalizing Anti-Wrinkle Facial Serum 
@@ -268,6 +273,7 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/0bacf12d76c54111836f2f671f952b48/",
         ITA:"https://shop.jcpremiere.com/products/cd97a67c22ab41279e66017f41ddd0c6/",
+        SGP:"https://shop.jcpremiere.com/products/c2c860a7ba84479fad1e26c65657e2a1/",
         
     },
 //4Green 
@@ -275,6 +281,7 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/a0a6b6457a0045b8b0fdf57fd74c6337/",
         UA:"https://shop.jcpremiere.com/products/ddf3dc1b0bab4846bbd23513c5e68126/",
+        SGP:"https://shop.jcpremiere.com/products/72fab8c31e3040bf96b139745ebfb7a4/",
         
     },
 //Omni Fit
@@ -283,6 +290,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/128491b082034368a50548c2cca2f7e1/",
         UA:"https://shop.jcpremiere.com/products/7401db0a1dd844a588ed76f3601e382e/",
         ITA:"https://shop.jcpremiere.com/products/0087501ff43b4bf2adfa8678c9d2d210/",
+        SGP:"https://shop.jcpremiere.com/products/16ae3ff8052847c28fba761c26651482/",
         
     },
 //Natures Own Conditioner 
@@ -316,6 +324,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/9042609158a64aed890be3ccf03ca464/",
         QA:"https://shop.jcpremiere.com/products/718ab68020cd4665a34edf6afb2f1e6e/",
         ITA:"https://shop.jcpremiere.com/products/2da4002ed84b4cb3a3013c33fc56709b/",
+        SGP:"https://shop.jcpremiere.com/products/148fe11fbc9548ab94cd7d42edcc8073/",
         
     },
 //K-Pads (Day)
@@ -325,6 +334,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/417371c070b342ef99317e0e71973bc4/",
         QA:"https://shop.jcpremiere.com/products/30bd38ae46f9452b87efd72519cb972e/",
         ITA:"https://shop.jcpremiere.com/products/fbbb3073ba1b4ef991b5e2203cec2125/",
+        SGP:"https://shop.jcpremiere.com/products/e458e07dbc1444939a01f39c0bba1d08/",
         
     },
 //Omni White Kojic Soap 
@@ -333,6 +343,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/f1f55343af394008ad66ca572a3bdba2/",
         UA:"https://shop.jcpremiere.com/products/a2abc7e15e584b928333e38ea38a05bb/",
         ITA:"https://shop.jcpremiere.com/products/e39655c24ef34c2da99dba0884157235/",
+        SGP:"https://shop.jcpremiere.com/products/d596f0d82d8f44f1a8391252d423d618/",
         
     },
 //K-Pads (Night) 
@@ -342,6 +353,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/e89e85793b434f8e83b0a5b582447d5b/",
         QA:"https://shop.jcpremiere.com/products/55ca51551bef40e4ba7caf98794390e2/",
         ITA:"https://shop.jcpremiere.com/products/f79a08d1da8746a7a4674573670e9295/",
+        SGP:"https://shop.jcpremiere.com/products/d542405421de4b82ad0fc2e439b27724/",
         
     },
 //K-Pads (panty liner)
@@ -351,6 +363,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/24c8d5a61d61459f9c73483c86ae464d/",
         QA:"https://shop.jcpremiere.com/products/9f13b068c2a144e2985a14cea7191d43/",
         ITA:"https://shop.jcpremiere.com/products/662b1bb94b144a34bb5098890297b3b6/",
+        SGP:"https://shop.jcpremiere.com/products/1146c65cf76e4933b374addcda6661d3/",
         
     },
  //Weight Loss Program 
@@ -378,6 +391,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/197297144a6e4940b79bc5b008c70919/",
         QA:"https://shop.jcpremiere.com/products/866d91616dc944b78af90833f63d64b5/",
         ITA:"https://shop.jcpremiere.com/products/adb1f9c4fb494559891ce52686ff935b/",
+        SGP:"https://shop.jcpremiere.com/products/26d9f9c23b234ab5a039658b1356e62e/",
         
     },
  //Kind Browcara Brown
@@ -387,6 +401,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/c211e5d040244cf1bcd7fa0b837ecdb6/",
         QA:"https://shop.jcpremiere.com/products/7c7ab83c557944bf8905e45b3897b857/",
         ITA:"https://shop.jcpremiere.com/products/5e7583f630ee495883ab783ba00008e7/",
+        SGP:"https://shop.jcpremiere.com/products/19059c72f44c4119a34128ce1ec70dfb/",
         
     },
 //Kind Browcara Clear
@@ -396,6 +411,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/6969748fe73f4e1a90462ebdb474701e/",
         QA:"https://shop.jcpremiere.com/products/40ab0a1c62fb49e788ccba5076a49400/",
         ITA:"https://shop.jcpremiere.com/products/19174b60f30d4334b8776c1d5d3ddb49/",
+        SGP:"https://shop.jcpremiere.com/products/7fdf9a8f855d4b68908996b3bb5165c3/",
         
     },
 //Kind Lashes
