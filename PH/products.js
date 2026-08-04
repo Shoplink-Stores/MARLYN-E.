@@ -438,7 +438,8 @@ const products = {
         QA:"https://shop.jcpremiere.com/products/866d91616dc944b78af90833f63d64b5/",
         ITA:"https://shop.jcpremiere.com/products/adb1f9c4fb494559891ce52686ff935b/",
         SGP:"https://shop.jcpremiere.com/products/26d9f9c23b234ab5a039658b1356e62e/",
-        
+        CA:"https://shop.jcpremiere.com/products/f043bdd07d314dd0b1ec4f883ae2ad68/",
+    
     },
  //Kind Browcara Brown
     product49: {
@@ -448,7 +449,8 @@ const products = {
         QA:"https://shop.jcpremiere.com/products/7c7ab83c557944bf8905e45b3897b857/",
         ITA:"https://shop.jcpremiere.com/products/5e7583f630ee495883ab783ba00008e7/",
         SGP:"https://shop.jcpremiere.com/products/19059c72f44c4119a34128ce1ec70dfb/",
-        
+        CA:"https://shop.jcpremiere.com/products/a11d627a0fb24836947a9ee9fc14f32a/",
+    
     },
 //Kind Browcara Clear
     product50: {
@@ -458,7 +460,8 @@ const products = {
         QA:"https://shop.jcpremiere.com/products/40ab0a1c62fb49e788ccba5076a49400/",
         ITA:"https://shop.jcpremiere.com/products/19174b60f30d4334b8776c1d5d3ddb49/",
         SGP:"https://shop.jcpremiere.com/products/7fdf9a8f855d4b68908996b3bb5165c3/",
-        
+        CA:"https://shop.jcpremiere.com/products/b3540c683e5c4901ae44761d624ed566/",
+    
     },
 //Kind Lashes
     product51: {
@@ -468,7 +471,8 @@ const products = {
         QA:"https://shop.jcpremiere.com/products/5a3be64c0a784f2697cb11344b423361/",
         ITA:"https://shop.jcpremiere.com/products/f66f43e6ff454e1f97707caf235ae469/",
         SGP:"https://shop.jcpremiere.com/products/b7231ee84cd64491a5436812ce478d2f/",
-        
+        CA:"https://shop.jcpremiere.com/products/efb637c139c6456b9de5c4e1b572d5f9/",
+    
     },
 //Kind Paint Blossom 
     product52: {
@@ -478,7 +482,8 @@ const products = {
         QA:"https://shop.jcpremiere.com/products/685fe9052720432486cdbbf04bffa07a/",
         ITA:"https://shop.jcpremiere.com/products/3e096bc2402842408ce1c18ce9966700/",
         SGP:"https://shop.jcpremiere.com/products/04d30564a01741388ef014b84f9fa576/",
-        
+        CA:"https://shop.jcpremiere.com/products/69f1b746a95f489b8a764ee1a559bbc6/",
+    
     },
 //Kind Paint Haven
     product53: {
@@ -488,7 +493,8 @@ const products = {
         QA:"https://shop.jcpremiere.com/products/17c51fcd24504235822e155f3f6d3a1c/",
         ITA:"https://shop.jcpremiere.com/products/9be5a4466afe488d81c6d7bc10dcfa60/",
         SGP:"https://shop.jcpremiere.com/products/63028a19e1eb421caa6ec6b17283e1e6/",
-        
+        CA:"https://shop.jcpremiere.com/products/e1d540044b794694b8c8b405a6149f89/",
+    
     },
 //Kind Paint Savvy
     product54: {
@@ -498,7 +504,8 @@ const products = {
         QA:"https://shop.jcpremiere.com/products/14528689d5834dd69d6753eec8e2855c/",
         ITA:"https://shop.jcpremiere.com/products/58ed33cec7c649a6aef940f825b64748/",
         SGP:"https://shop.jcpremiere.com/products/e81b57311f214105aab3b9e56ad7c399/",
-        
+        CA:"https://shop.jcpremiere.com/products/7f10e3f08378488fb2b468d204cefab1/",
+    
     },
 //Kind Paint Shy
     product55: {
@@ -508,7 +515,8 @@ const products = {
         QA:"https://shop.jcpremiere.com/products/58f32c9a9c204de6998c91f82cca0e1a/",
         ITA:"https://shop.jcpremiere.com/products/11785b6e4ef546bca3f1528a41f330c8/",
         SGP:"https://shop.jcpremiere.com/products/6d4e27fb9b244060898438228b708ed4/",
-        
+        CA:"https://shop.jcpremiere.com/products/74d169accceb464a962c2a35ce0a526a/",
+            
     },
 //Kind Paint Sleek
     product56: {
@@ -518,7 +526,8 @@ const products = {
         QA:"https://shop.jcpremiere.com/products/8af8df41eee749ab9f76a1fedfb908a3/",
         ITA:"https://shop.jcpremiere.com/products/25db8ce8a1874ea7ac8379b9496c5711/",
         SGP:"https://shop.jcpremiere.com/products/20cd3a9f45cc4ecea0f045d7b7c065a8/",
-        
+        CA:"https://shop.jcpremiere.com/products/781fa73e57f5408fae70422f36e0d18e/",
+    
     },
 //Kind Paint Sweet 
     product57: {
@@ -528,7 +537,8 @@ const products = {
         QA:"https://shop.jcpremiere.com/products/cd710a760adf4ac4af3781050022f1c6/",
         ITA:"https://shop.jcpremiere.com/products/8b9aef3647204bc5ae3028ddc03d8e47/",
         SGP:"https://shop.jcpremiere.com/products/87396f2fcd9240cdabd2bdf8be35f594/",
-        
+        CA:"https://shop.jcpremiere.com/products/c7f8e110c0e14d94b2e4896a98db551d/",
+    
     },
 
 };
