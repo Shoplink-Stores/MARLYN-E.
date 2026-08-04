@@ -325,7 +325,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/a0a6b6457a0045b8b0fdf57fd74c6337/",
         UA:"https://shop.jcpremiere.com/products/ddf3dc1b0bab4846bbd23513c5e68126/",
         SGP:"https://shop.jcpremiere.com/products/72fab8c31e3040bf96b139745ebfb7a4/",
-        CA:https://shop.jcpremiere.com/products/392e94c557d848cd956fd4a5385ca676/",
+        CA:"https://shop.jcpremiere.com/products/392e94c557d848cd956fd4a5385ca676/",
             
     },
 //Omni Fit
