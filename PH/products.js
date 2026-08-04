@@ -34,6 +34,7 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/00b820458a0145de9e139c54e8ba94bb/",
         ITA:"https://shop.jcpremiere.com/products/18a5a694bfc9498f9347e99a044643fa/",
+        SGP:"https://shop.jcpremiere.com/products/b505e32732564b73af1da0434fd3d947/",
         
     },
 //Hello Yellow (Brew Up.classic.mocha.black.choco.obj)
@@ -58,6 +59,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/8a9e0efc25304b71aba18870a574d686/",
         QA:"https://shop.jcpremiere.com/products/1acd0b128c96495b9e977655c52bb83d/",
         ITA:"https://shop.jcpremiere.com/products/ab67c9467c7942f687ab61ec26040983/",
+        SGP:"https://shop.jcpremiere.com/products/7c15e69854234571aceedd9b3e7d1b13/",
     
     },
 //Organic Barley Juice
@@ -140,25 +142,27 @@ const products = {
 //Barley Coffee Mocha Tub
     product18: {
 
-        
+        SGP:"https://shop.jcpremiere.com/products/30f46eeab21b47f79c144104d3b46138/",
 
     },
 //Barley Coffee Classic Tub
     product19: {
 
-        
+        SGP:"https://shop.jcpremiere.com/products/72260cd88b8445beb389f1056a72c4ee/",
 
     },
 //Barley Coffee Black Tub
     product20: {
 
         PH:"https://shop.jcpremiere.com/products/a8b46b3b0b754b5db41b7679f2e948bb/",
+        SGP:"https://shop.jcpremiere.com/products/e9371aa17a25430887fbc9a7fd073a41/",
         
     },
 //Organic Barley Juice In Tub
     product21: {
 
         PH:"https://shop.jcpremiere.com/products/92f8095baf1b4a8f85775ef40a8a9543/",
+        SGP:"https://shop.jcpremiere.com/products/8a39e4fe6f0a4d8784eea4c37869c487/",
         
     },
 //Organic Barley Capsule 
@@ -174,6 +178,7 @@ const products = {
 
         PH:"https://shop.jcpremiere.com/products/85e785e46c91428abc402203af57988c/",
         ITA:"https://shop.jcpremiere.com/products/77445c12e0e648cf8194a13e3afebb56/",
+        SGP:"https://shop.jcpremiere.com/products/73401f2f90264820af35346edfa2b4ed/",
         
     },
 //Kind Revitalizing Anti-Wrinkle Facial Cream 
@@ -299,6 +304,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/d04cee70548e4f5cbf4d0bdd0fa155b9/",
         UA:"https://shop.jcpremiere.com/products/c6ec6fcb15444c1e9394d4363de55c95/",
         ITA:"https://shop.jcpremiere.com/products/3430704caf9b4a82b994f9a4441526da/",
+        SGP:"https://shop.jcpremiere.com/products/e2147db556914fe69ae00e29e3276b50/",
         
     },
 //Natures Own Shampoo 
@@ -307,6 +313,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/3b2acec7858446ee9ba3b00b0e077f6f/",
         UA:"https://shop.jcpremiere.com/products/6f23238a5e5146a6941cc502ebe15fe2/",
         ITA:"https://shop.jcpremiere.com/products/39bb02b4294b4c8b88f704e9081c074f/",
+        SGP:"https://shop.jcpremiere.com/products/f2aae5fe39f94e05aede9904af86b601/",
         
     },
 //Natures Own Bodywash 
@@ -315,6 +322,7 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/38a6f4f50eea46688e843ad74ae85314/",
         UA:"https://shop.jcpremiere.com/products/a48deac8192747449c68f6c6398c8d37/",
         ITA:"https://shop.jcpremiere.com/products/814b78077fda4e58ab8c6c4e664c6e9f/",
+        SGP:"https://shop.jcpremiere.com/products/ce64646c0c8a47c29f951a41d06a99f5/",
         
     },
 //Omni White Soap 
@@ -421,6 +429,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/0f46372dc14c4ae2992cee3e0bbcd64d/",
         QA:"https://shop.jcpremiere.com/products/5a3be64c0a784f2697cb11344b423361/",
         ITA:"https://shop.jcpremiere.com/products/f66f43e6ff454e1f97707caf235ae469/",
+        SGP:"https://shop.jcpremiere.com/products/b7231ee84cd64491a5436812ce478d2f/",
         
     },
 //Kind Paint Blossom 
@@ -430,6 +439,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/147047482ad341e3bc71a8a3c785fec8/",
         QA:"https://shop.jcpremiere.com/products/685fe9052720432486cdbbf04bffa07a/",
         ITA:"https://shop.jcpremiere.com/products/3e096bc2402842408ce1c18ce9966700/",
+        SGP:"https://shop.jcpremiere.com/products/04d30564a01741388ef014b84f9fa576/",
         
     },
 //Kind Paint Haven
@@ -439,6 +449,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/cc2ef2e541624113bc972653098768af/",
         QA:"https://shop.jcpremiere.com/products/17c51fcd24504235822e155f3f6d3a1c/",
         ITA:"https://shop.jcpremiere.com/products/9be5a4466afe488d81c6d7bc10dcfa60/",
+        SGP:"https://shop.jcpremiere.com/products/63028a19e1eb421caa6ec6b17283e1e6/",
         
     },
 //Kind Paint Savvy
@@ -448,6 +459,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/4dc1e2be8d28486fa2b3516838a36d7e/",
         QA:"https://shop.jcpremiere.com/products/14528689d5834dd69d6753eec8e2855c/",
         ITA:"https://shop.jcpremiere.com/products/58ed33cec7c649a6aef940f825b64748/",
+        SGP:"https://shop.jcpremiere.com/products/e81b57311f214105aab3b9e56ad7c399/",
         
     },
 //Kind Paint Shy
@@ -457,6 +469,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/7a7dde249a7b4aaeb2d7bcfdbc8bfda4/",
         QA:"https://shop.jcpremiere.com/products/58f32c9a9c204de6998c91f82cca0e1a/",
         ITA:"https://shop.jcpremiere.com/products/11785b6e4ef546bca3f1528a41f330c8/",
+        SGP:"https://shop.jcpremiere.com/products/6d4e27fb9b244060898438228b708ed4/",
         
     },
 //Kind Paint Sleek
@@ -466,6 +479,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/1e6ab20067bc435b91d72db1d21373bb/",
         QA:"https://shop.jcpremiere.com/products/8af8df41eee749ab9f76a1fedfb908a3/",
         ITA:"https://shop.jcpremiere.com/products/25db8ce8a1874ea7ac8379b9496c5711/",
+        SGP:"https://shop.jcpremiere.com/products/20cd3a9f45cc4ecea0f045d7b7c065a8/",
         
     },
 //Kind Paint Sweet 
@@ -475,6 +489,7 @@ const products = {
         UA:"https://shop.jcpremiere.com/products/8021bfee118b44b58e7bc716fa6305ed/",
         QA:"https://shop.jcpremiere.com/products/cd710a760adf4ac4af3781050022f1c6/",
         ITA:"https://shop.jcpremiere.com/products/8b9aef3647204bc5ae3028ddc03d8e47/",
+        SGP:"https://shop.jcpremiere.com/products/87396f2fcd9240cdabd2bdf8be35f594/",
         
     },
 
