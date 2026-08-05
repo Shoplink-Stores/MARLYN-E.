@@ -39,7 +39,8 @@ const products = {
         PH:"https://shop.jcpremiere.com/products/00b820458a0145de9e139c54e8ba94bb/",
         ITA:"https://shop.jcpremiere.com/products/18a5a694bfc9498f9347e99a044643fa/",
         SGP:"https://shop.jcpremiere.com/products/b505e32732564b73af1da0434fd3d947/",
-        
+        UK:"https://shop.jcpremiere.com/products/dc5e85fdeb4d45b593b91daa3f9a670e/",
+    
     },
 //Hello Yellow (Brew Up.classic.mocha.black.choco.obj)
     product7: {
@@ -57,6 +58,7 @@ const products = {
         TWN:"https://shop.jcpremiere.com/products/d55b79f4cc51461c8f6b0533db706955/",
         CA:"https://shop.jcpremiere.com/products/d27bf15ec338422aa2b079ee966a9ce0/",
         JPN:"https://shop.jcpremiere.com/products/ad3a4ba571c54dd4925b2ad142bdd1df/",
+        UK:"https://shop.jcpremiere.com/products/682bfe629afc4e4e9d6843e867144b69/",
     
     },
 //Barley Milk Tea
@@ -83,6 +85,7 @@ const products = {
         TWN:"https://shop.jcpremiere.com/products/f5a158a476b74bd8a982080c30f43255/",
         CA:"https://shop.jcpremiere.com/products/cd0e1a86167f476fbea32cfcf302d6e2/",
         JPN:"https://shop.jcpremiere.com/products/3382c17c65514b8dbdeef5238df52e83/",
+        UK:"https://shop.jcpremiere.com/products/032fcc67ac2d4439a5c8c7c8bfac3604/",
     
     },
 //Organic Barley Gold
@@ -96,6 +99,7 @@ const products = {
         TWN:"https://shop.jcpremiere.com/products/7601664d21cf4ba480034062c8cf5b4b/",
         CA:"https://shop.jcpremiere.com/products/ccc5f0159d214c82877c27aa52f284e6/",
         JPN:"https://shop.jcpremiere.com/products/46532de2ba0e40d6807aab6526b59099/",
+        UK:"https://shop.jcpremiere.com/products/8a7eca657d4e439eaeefd734d710b87c/",
     
     },
 //Choco Barley
@@ -109,6 +113,7 @@ const products = {
         TWN:"https://shop.jcpremiere.com/products/ec7b7e71ebc34042b78d84512bcc8fdc/",
         CA:"https://shop.jcpremiere.com/products/451e50bf3cd24ba58b7c4b7ee3383d02/",
         JPN:"https://shop.jcpremiere.com/products/2e2e47f7af4243a68e4b472bad211bec/",
+        UK:"https://shop.jcpremiere.com/products/9a5063c2a1124f918b8f342f09d4c236/",
     
     },
 //Ginger Barley 
@@ -122,6 +127,7 @@ const products = {
         TWN:"https://shop.jcpremiere.com/products/bff3e7404e1c4031b8cd6eb6cdaee7c4/",
         CA:"https://shop.jcpremiere.com/products/5c020977300a4b5d98dff41de1d14c10/",
         JPN:"https://shop.jcpremiere.com/products/735681c204d14c25b363f64a5a50647d/",
+        UK:"https://shop.jcpremiere.com/products/d4b137f9702c4fddb85dce9d6a5d9d72/",
     
     },
 //Barley Collagen 
@@ -133,6 +139,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/7914ced666e54c42a0301b9d808406bd/",
         CA:"https://shop.jcpremiere.com/products/ec71783e5e1849e0b5bf3f906ec1ac0d/",
         JPN:"https://shop.jcpremiere.com/products/94bbc32c4ca94b08ac21e337e4e64fb5/",
+        UK:"https://shop.jcpremiere.com/products/3d686711af31452eacd587e9c790a9b6/",
     
     },
 //Barley Coffee Black 
@@ -146,6 +153,7 @@ const products = {
         TWN:"https://shop.jcpremiere.com/products/f1e6baa440154e44b8c4c822905c4d5d/",
         CA:"https://shop.jcpremiere.com/products/91395f85c78344089cd0d4b68d0900db/",
         JPN:"https://shop.jcpremiere.com/products/1f2cb40c772c41cbad4f46e83e2a513b/",
+        UK:"https://shop.jcpremiere.com/products/5d0f36a7e55a40ffaa3a62ed689e641b/",
     
     },
 //Barley Coffee Classic 
@@ -159,6 +167,7 @@ const products = {
         TWN:"https://shop.jcpremiere.com/products/7f1c4e4d408044e9b3fc731698d8e830/",
         CA:"https://shop.jcpremiere.com/products/c63c358637c444e5a7bc39a9794e32b7/",
         JPN:"https://shop.jcpremiere.com/products/a8cc31c28a8746c9a8897920bc47dc33/",
+        UK:"https://shop.jcpremiere.com/products/e3876200076a472cafc5cd8944c0da78/",
     
     },
 //Barley Coffee Mocha
@@ -172,6 +181,7 @@ const products = {
         TWN:"https://shop.jcpremiere.com/products/43898ecd9d974ceeb6802cec367e110d/",
         CA:"https://shop.jcpremiere.com/products/d79cb67f46aa411288da8275fc66f06b/",
         JPN:"https://shop.jcpremiere.com/products/455f54e9920a487e8ecd0cfaba4ea6f8/",
+        UK:"https://shop.jcpremiere.com/products/5bf2cb9fb27145bbb58b56a8e68a5a93/",
     
     },
 //Barley Coffee Mocha Tub
