@@ -340,6 +340,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/49b62a425ec145ad994a17c28253e0a5/",
         JPN:"https://shop.jcpremiere.com/products/8421e14a63df4a639a15dc6138b258de/",
         UK:"https://shop.jcpremiere.com/products/c77b9ccc60aa44e6abb7e649326886d4/",
+        KR:"https://shop.jcpremiere.com/products/324b56ffc92842e4b8e7c0cd697c50be/",
     
     },
 //Kind Intensifying BB Cream
@@ -417,7 +418,8 @@ const products = {
         JPN:"https://shop.jcpremiere.com/products/3e454c741575440193a753e3bbe885c3/",
         UK:"https://shop.jcpremiere.com/products/97d5261352a146d6b679eda5ca3933b6/",
         HRV:"https://shop.jcpremiere.com/products/ef74c948de724990b423e0bd72d72cd3/",
-        
+        KR:"https://shop.jcpremiere.com/products/053ff2b1752f42c1a5cb4128dca0a8e1/",
+    
     },
 //4Green 
     product35: {
@@ -456,6 +458,7 @@ const products = {
         CA:"https://shop.jcpremiere.com/products/6fd305397c8e4ab881e1190ca030721b/",
         JPN:"https://shop.jcpremiere.com/products/9a55d445bfd14102b685a3b46439f3b7/",
         UK:"https://shop.jcpremiere.com/products/5a0c5aa477c14dbd8b6e1ff4ef91748a/",
+        KR:"https://shop.jcpremiere.com/products/09f2f0b2d1794bb5aa1e7cf2dc902210/",
     
     },
 //Natures Own Shampoo 
@@ -511,6 +514,8 @@ const products = {
         CA:"https://shop.jcpremiere.com/products/0a6334d8dbd2492c88fb6fdac1ba0b0a/",
         JPN:"https://shop.jcpremiere.com/products/f9be9513d666455ca1857794689cbb0a/",
         UK:"https://shop.jcpremiere.com/products/fefd82762ab14710a33e0cb95eba9de7/",
+        KR:"https://shop.jcpremiere.com/products/cfb63d143bd14893b8a2fcde6cfe69e2/",
+    
     },
 //Omni White Kojic Soap 
     product42: {
@@ -536,6 +541,7 @@ const products = {
         CA:"https://shop.jcpremiere.com/products/5077aa4a97284f04a67c109906b98135/",
         JPN:"https://shop.jcpremiere.com/products/60e9b62effc542f8995286943a0666fc/",
         UK:"https://shop.jcpremiere.com/products/95108d163e684dfe9aac33d987686a70/",
+        KR:"https://shop.jcpremiere.com/products/f6b3388f192245cba0508a5f75377dac/",
     
     },
 //K-Pads (panty liner)
@@ -549,6 +555,7 @@ const products = {
         CA:"https://shop.jcpremiere.com/products/9e48f4b23bca4643a3ef44f8c678d92c/",
         JPN:"https://shop.jcpremiere.com/products/546421be0af54a2e84b6bbbe906f8f4c/",
         UK:"https://shop.jcpremiere.com/products/844c048b11ac4f31acae67af257a4992/",
+        KR:"https://shop.jcpremiere.com/products/d3127306fa73407b8f4ecb8e61a0cda3/",
     
     },
  //Weight Loss Program 
@@ -580,6 +587,7 @@ const products = {
         CA:"https://shop.jcpremiere.com/products/f043bdd07d314dd0b1ec4f883ae2ad68/",
         JPN:"https://shop.jcpremiere.com/products/ecd1ae2a682f4371987d15aaa19e815f/",
         UK:"https://shop.jcpremiere.com/products/3080f5ca64434dd5bdeb4d83030b6d51/",
+        KR:"https://shop.jcpremiere.com/products/15f85f5273a74623951a29b3b543dec3/",
     
     },
  //Kind Browcara Brown
@@ -593,6 +601,7 @@ const products = {
         CA:"https://shop.jcpremiere.com/products/a11d627a0fb24836947a9ee9fc14f32a/",
         JPN:"https://shop.jcpremiere.com/products/ace5bb92d17a4d778b6cb79b3426f2b3/",
         UK:"https://shop.jcpremiere.com/products/24dde9cc12ba443eab89b223bd312857/",
+        KR:"https://shop.jcpremiere.com/products/e21b5cfe9fe44abc811b32318d865eb7/",
     
     },
 //Kind Browcara Clear
@@ -606,6 +615,7 @@ const products = {
         CA:"https://shop.jcpremiere.com/products/b3540c683e5c4901ae44761d624ed566/",
         JPN:"https://shop.jcpremiere.com/products/c77adaa493d74c03bece83bea5b5f6b1/",
         UK:"https://shop.jcpremiere.com/products/79ed0c2d1a75421596163911369d233f/",
+        KR:"https://shop.jcpremiere.com/products/4c5c15fda95b440fb3dec2e43e0d5c47/",
     
     },
 //Kind Lashes
@@ -633,7 +643,8 @@ const products = {
         CA:"https://shop.jcpremiere.com/products/69f1b746a95f489b8a764ee1a559bbc6/",
         JPN:"https://shop.jcpremiere.com/products/e651a39401494efaa3ea39128210442f/",
         UK:"https://shop.jcpremiere.com/products/2b67d711fe04446a99c64cbf8ae185c6/",
-
+        KR:"https://shop.jcpremiere.com/products/2fc561e266a54a159d79f13d2accc197/",
+    
     },
 //Kind Paint Haven
     product53: {
@@ -646,6 +657,7 @@ const products = {
         CA:"https://shop.jcpremiere.com/products/e1d540044b794694b8c8b405a6149f89/",
         JPN:"https://shop.jcpremiere.com/products/e24be27ba0434032a859830bfe8e6ad5/",
         UK:"https://shop.jcpremiere.com/products/4fa63ecb015c4b21937be038800d1c80/",
+        KR:"https://shop.jcpremiere.com/products/b2d571322119473082c37299f686338e/",
     
     },
 //Kind Paint Savvy
@@ -659,6 +671,7 @@ const products = {
         CA:"https://shop.jcpremiere.com/products/7f10e3f08378488fb2b468d204cefab1/",
         JPN:"https://shop.jcpremiere.com/products/8945fddb861c4f7cb1bad99f4452d6a7/",
         UK:"https://shop.jcpremiere.com/products/a6574c9cb38b4396a2256327c3cc3bd9/",
+        KR:"https://shop.jcpremiere.com/products/c196d7bf4395479e84952658713d915a/",
     
     },
 //Kind Paint Shy
@@ -672,6 +685,7 @@ const products = {
         CA:"https://shop.jcpremiere.com/products/74d169accceb464a962c2a35ce0a526a/",
         JPN:"https://shop.jcpremiere.com/products/102aa37545724646b354fa4910435842/",
         UK:"https://shop.jcpremiere.com/products/72666a698730466b879f3f6f0b2db6e4/",
+        KR:"https://shop.jcpremiere.com/products/3fd3ad6132b348eda4cbae2b3bf4872d/",
     
     },
 //Kind Paint Sleek
@@ -685,6 +699,7 @@ const products = {
         CA:"https://shop.jcpremiere.com/products/781fa73e57f5408fae70422f36e0d18e/",
         JPN:"https://shop.jcpremiere.com/products/fbdbcee53a8248719006d84e9e8770bc/",
         UK:"https://shop.jcpremiere.com/products/95b82e82d6cf4f4493521ac7f4bb8a76/",
+        KR:"https://shop.jcpremiere.com/products/30fc3a68154c4d1fbc8120bb60707d66/",
     
     },
 //Kind Paint Sweet 
@@ -698,6 +713,7 @@ const products = {
         CA:"https://shop.jcpremiere.com/products/c7f8e110c0e14d94b2e4896a98db551d/",
         JPN:"https://shop.jcpremiere.com/products/3a7eab375154460483643be705f8ac1b/",
         UK:"https://shop.jcpremiere.com/products/4e41c8d640924129b6ac3e9f3eb1a911/",
+        KR:"https://shop.jcpremiere.com/products/a8cca5c116304b749ccdca7aa96f728c/",
     
     },
 
