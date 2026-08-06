@@ -254,7 +254,7 @@ const products = {
         HRV:"https://shop.jcpremiere.com/products/a2cd29ab28a949ce93f2304a46db727b/",
         KR:"https://shop.jcpremiere.com/products/7380f1e49ab3432aa77359c256436dd0/",
     
-    }
+    },
 //Organic Barley Capsule 
     product22: {
 
@@ -302,6 +302,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/7aaebb0492004913b02453e695169749/",
         CA:"https://shop.jcpremiere.com/products/6618fd0b1f1b4fd18df2b7cf77168c7f/",
         UK:"https://shop.jcpremiere.com/products/921596863ee04651acc4502047c49cbe/",
+        KR:"https://shop.jcpremiere.com/products/19122b9c3f964378b9a12434112847df/",
     
     },
 //Kind Deep Hydrating Moisturizer 
@@ -364,6 +365,7 @@ const products = {
         CA:"https://shop.jcpremiere.com/products/358b30daac224c9188179fd7bc6a3325/",
         JPN:"https://shop.jcpremiere.com/products/9cce1739ce2d4e589338b58cc1f29549/",
         UK:"https://shop.jcpremiere.com/products/ec99ad9cec164c39ab2dca3a72888ea7/",
+        KR:"https://shop.jcpremiere.com/products/3ff2f1917d454d6ba2d01436a0ca332d/",
     
     },
 //Kind Revitalizing Toner
@@ -377,6 +379,7 @@ const products = {
         CA:"https://shop.jcpremiere.com/products/e771deaee4a145c6a3f38155fd9a8b69/",
         JPN:"https://shop.jcpremiere.com/products/c4a7cfba1c5646d69528cf5bd47f6e83/",
         UK:"https://shop.jcpremiere.com/products/b9c5a91e354f4e22955ff922d3714d1f/",
+        KR:"https://shop.jcpremiere.com/products/e8ea8518879949df85c76fb9f25034de/",
     
     },
 //Kind Revitalizing Anti-Wrinkle Facial Serum 
@@ -401,6 +404,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/1a11eeb0aba042929e5653c5e68d89b1/",
         JPN:"https://shop.jcpremiere.com/products/0ed199bfb5da4afd9ae6aec6b4f69db1/",
         UK:"https://shop.jcpremiere.com/products/6b2756264517464b97571cad64dcfa2a/",
+        KR:"https://shop.jcpremiere.com/products/fc0c1b7ccf174ff6a432fc597a1a6af8/",
     
     },
 //GlutaFit
