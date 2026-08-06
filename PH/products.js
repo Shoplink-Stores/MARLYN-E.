@@ -207,6 +207,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/e9371aa17a25430887fbc9a7fd073a41/",
         CA:"https://shop.jcpremiere.com/products/2e3916163ddd4d98907f9b8e8ffcc20b/",
         JPN:"https://shop.jcpremiere.com/products/04678a61a3ab4ed68cf347734a2d530d/",
+        UK:"https://shop.jcpremiere.com/products/255b0fd565c4406398e3b0c1c7d2f224/",
     
     },
 //Organic Barley Juice In Tub
@@ -227,6 +228,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/2d6a45c0d856493c9e8b7308c9af2bf0/",
         CA:"https://shop.jcpremiere.com/products/e766157673cd4171a657477da683db54/",
         JPN:"https://shop.jcpremiere.com/products/1d16ac40ae974560a68f48f82c638523/",
+        UK:"https://shop.jcpremiere.com/products/eb3d92be53fd4d439975ec3dc60b166d/",
     
     },
 //Kind Hydrating Matte Sunstick
@@ -236,6 +238,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/77445c12e0e648cf8194a13e3afebb56/",
         SGP:"https://shop.jcpremiere.com/products/73401f2f90264820af35346edfa2b4ed/",
         JPN:"https://shop.jcpremiere.com/products/d91e21e8456a462096b3448d9c323dbf/",
+        UK:"https://shop.jcpremiere.com/products/96f1582c698a4ae7ad9e662fe3611860/",
     
     },
 //Kind Revitalizing Anti-Wrinkle Facial Cream 
@@ -248,6 +251,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/71843314a0424c039ead24f97d3a6c47/",
         CA:"https://shop.jcpremiere.com/products/ab01f8147b274831bf0d7480a7e7cd3a/",
         JPN:"https://shop.jcpremiere.com/products/d0f9e8136ea44259b421ae5ceb37cedd/",
+        UK:"https://shop.jcpremiere.com/products/d06674a7db434ff88b45c18322b6b8bf/",
     
     },
 //Calvi - C
@@ -257,6 +261,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/0f341691ea344d36ac3480ded71c011e/",
         SGP:"https://shop.jcpremiere.com/products/7aaebb0492004913b02453e695169749/",
         CA:"https://shop.jcpremiere.com/products/6618fd0b1f1b4fd18df2b7cf77168c7f/",
+        UK:"https://shop.jcpremiere.com/products/921596863ee04651acc4502047c49cbe/",
     
     },
 //Kind Deep Hydrating Moisturizer 
@@ -291,6 +296,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/cf248c70530a44f1840d736d9ab266c3/",
         SGP:"https://shop.jcpremiere.com/products/49b62a425ec145ad994a17c28253e0a5/",
         JPN:"https://shop.jcpremiere.com/products/8421e14a63df4a639a15dc6138b258de/",
+        UK:"https://shop.jcpremiere.com/products/c77b9ccc60aa44e6abb7e649326886d4/",
     
     },
 //Kind Intensifying BB Cream
@@ -301,6 +307,7 @@ const products = {
         QA:"https://shop.jcpremiere.com/products/de7550963e8b454388d09e7acb10848f/",
         ITA:"https://shop.jcpremiere.com/products/28b4b33c5ef346e895766288ac0cd04a/",
         JPN:"https://shop.jcpremiere.com/products/3357a59604474a5eb7f5ece3a8fdf558/",
+        UK:"https://shop.jcpremiere.com/products/dcce8c0647f94711afcaaa6c775fe25e/",
     
     },
 //Kind Revitalizing Eye Cream 
@@ -325,6 +332,7 @@ const products = {
         SGP:"https://shop.jcpremiere.com/products/197816cc7baa442b91b192e0cccee9da/",
         CA:"https://shop.jcpremiere.com/products/e771deaee4a145c6a3f38155fd9a8b69/",
         JPN:"https://shop.jcpremiere.com/products/c4a7cfba1c5646d69528cf5bd47f6e83/",
+        UK:"https://shop.jcpremiere.com/products/b9c5a91e354f4e22955ff922d3714d1f/",
     
     },
 //Kind Revitalizing Anti-Wrinkle Facial Serum 
@@ -336,6 +344,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/c79f9efb8c8c4a5d8b2fa3fbd5db2053/",
         CA:"https://shop.jcpremiere.com/products/b168e60c779246059a054cf2394b3f0b/",
         JPN:"https://shop.jcpremiere.com/products/ffadb5b2803640509ff9e08c25a11b0b/",
+        UK:"https://shop.jcpremiere.com/products/c1b30b30d214491e88b495716fffa657/",
     
     },
 //Kind Intensive Whitening Facial Serum
@@ -346,6 +355,7 @@ const products = {
         QA:"https://shop.jcpremiere.com/products/78b7c5aaea1441009cdbed9b7aaf6c50/",
         ITA:"https://shop.jcpremiere.com/products/1a11eeb0aba042929e5653c5e68d89b1/",
         JPN:"https://shop.jcpremiere.com/products/0ed199bfb5da4afd9ae6aec6b4f69db1/",
+        UK:"https://shop.jcpremiere.com/products/6b2756264517464b97571cad64dcfa2a/",
     
     },
 //GlutaFit
