@@ -157,18 +157,16 @@ placeholder="Search country...">
 <div class="flag">🇭🇷</div>
 <div class="name">Croatia</div>
 </div>
-
-<div class="country" data-country="KR">
-<div class="flag">🇰🇷</div>
-<div class="name">South Korea</div>
-</div>
     
 <div class="country" data-country="SA">
 <div class="flag">🇸🇦</div>
 <div class="name">Saudi Arabia</div>
 </div>
 
-
+<div class="country" data-country="KR">
+<div class="flag">🇰🇷</div>
+<div class="name">South Korea</div>
+</div>
     
 </div>
 
@@ -192,6 +190,10 @@ const product = params.get("product");
 document.querySelectorAll(".country").forEach(card => {
 
     card.onclick = () => {
+
+    alert("Clicked: " + card.dataset.country);
+
+    // existing code...
 
         // Walang product o hindi kilalang product
         if (!product || !products[product]) {
