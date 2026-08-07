@@ -191,11 +191,7 @@ document.querySelectorAll(".country").forEach(card => {
 
     card.onclick = () => {
 
-        // Walang product o hindi kilalang product
-        if (!product || !products[product]) {
-            window.location.href = "not-available.html";
-            return;
-        }
+        
 
         alert("Clicked: " + card.dataset.country);
 
