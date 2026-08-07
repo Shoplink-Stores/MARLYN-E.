@@ -181,7 +181,8 @@ Please select your country.
 <script src="products.js"></script>
     
 <script>
-
+alert(product);
+alert(JSON.stringify(products));
 // Kunin ang product mula sa URL
 const params = new URLSearchParams(location.search);
 const product = params.get("product");
