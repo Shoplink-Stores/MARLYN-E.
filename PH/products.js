@@ -217,7 +217,7 @@ const products = {
         JPN:"https://shop.jcpremiere.com/products/bacb547307f24bdea1c2767d93e212ce/",
         UK:"https://shop.jcpremiere.com/products/f31ed184deed48d8b76bfab46a8bb884/",
         HRV:"https://shop.jcpremiere.com/products/dded4a60de43459a89233e1c80b75d92/",
-        KR:"https://shop.jcpremiere.com/products/d5fddb7a284448e2bd4bf81c2dd4649c/ 
+        KR:"https://shop.jcpremiere.com/products/d5fddb7a284448e2bd4bf81c2dd4649c/", 
             
     },
 //Barley Coffee Classic Tub
