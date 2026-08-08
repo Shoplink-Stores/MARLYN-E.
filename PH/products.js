@@ -76,6 +76,7 @@ const products = {
         UK:"https://shop.jcpremiere.com/products/bfeb29e1e64d4f1d87785f3d79075031/",
         HRV:"https://shop.jcpremiere.com/products/7b28c97a8baf4af1a451361e28ddba70/",
         KR:"https://shop.jcpremiere.com/products/d5fddb7a284448e2bd4bf81c2dd4649c/",
+        UGA:"https://shop.jcpremiere.com/products/eb4fca5b91894b48a48ff898a7534dcc/",
     
     },
 //Organic Barley Juice
@@ -94,6 +95,7 @@ const products = {
         SA:"https://shop.jcpremiere.com/products/2376e62af73b479390a00848effb35ca/",
         KR:"https://shop.jcpremiere.com/products/3c54aa6720804313b9ba24223a9258e6/",
         NGA:"https://shop.jcpremiere.com/products/afe14a01e3d041acb4c673704b42c7ee/",
+        UGA:"https://shop.jcpremiere.com/products/3b1b3f3e598640eea2868863d6f24abb/",
     
     },
 //Organic Barley Gold
@@ -111,6 +113,7 @@ const products = {
         HRV:"https://shop.jcpremiere.com/products/12868e5aaaf34732ae64b436419eb55e/",
         KR:"https://shop.jcpremiere.com/products/25be21a9cfbb463cb7442b967b097e3a/",
         NGA:"https://shop.jcpremiere.com/products/04a92aeeca10417893cb729c532eb9dc/",
+        UGA:"https://shop.jcpremiere.com/products/cb7c67e71557439da4e91c3a3e7709c5/",
     
     },
 //Choco Barley
@@ -128,6 +131,7 @@ const products = {
         HRV:"https://shop.jcpremiere.com/products/dbf2dc4de9594da2bba7b862a1d54e99/",
         KR:"https://shop.jcpremiere.com/products/4c5dd40f3b1244e8b2ea1e621392f074/",
         NGA:"https://shop.jcpremiere.com/products/44b89b556fe34dec86b838eb1324a198/",
+        UGA:"https://shop.jcpremiere.com/products/939e5f2094f140388f6ea605c030d27a/",
     
     },
 //Ginger Barley 
@@ -146,6 +150,7 @@ const products = {
         SA:"https://shop.jcpremiere.com/products/8e73445686d847beba09c6c97b38908c/",
         KR:"https://shop.jcpremiere.com/products/06c238923a564dbbb7e6cbaa4d68e894/",
         NGA:"https://shop.jcpremiere.com/products/2f83e0f1da9b4354b4e59fa8bfdecc24/",
+        UGA;"https://shop.jcpremiere.com/products/522ded993e644019888f339d0f824536/",
     
     },
 //Barley Collagen 
@@ -179,6 +184,7 @@ const products = {
         SA:"https://shop.jcpremiere.com/products/4591a6f95f574396ae565746d22f705d/",
         KR:"https://shop.jcpremiere.com/products/fe2168480a70445d80c37085328f088e/",
         NGA:"https://shop.jcpremiere.com/products/37c0daa75dad4c12aaafef560238dc80/",
+        UGA:"https://shop.jcpremiere.com/products/2eb315545d924024ba5ec34fdbf25b03/",
     
     },
 //Barley Coffee Classic 
@@ -197,6 +203,7 @@ const products = {
         SA:"https://shop.jcpremiere.com/products/dd9cab5d910d46869864f7807a400483/",
         KR:"https://shop.jcpremiere.com/products/6497ed84ab164e9fbd00db903f7d8c28/",
         NGA:"https://shop.jcpremiere.com/products/5242676d31174db3ad0f56aadb9e70cd/",
+        UGA:"https://shop.jcpremiere.com/products/14ac44bf4cbe4cf2a63406fb75b23482/",
     
     },
 //Barley Coffee Mocha
@@ -215,6 +222,7 @@ const products = {
         SA:"https://shop.jcpremiere.com/products/671bc1881040461aaedce18ae13b729c/",
         KR:"https://shop.jcpremiere.com/products/518d86ad0cb4440c90b05d0304579f4f/",
         NGA:"https://shop.jcpremiere.com/products/cab83283b48849f0b8d78becab3e55fc/",
+        UGA:"https://shop.jcpremiere.com/products/66e05f253da5495a949167e1bf396481/",
     
     },
 //Barley Coffee Mocha Tub
@@ -309,6 +317,7 @@ const products = {
         UK:"https://shop.jcpremiere.com/products/d06674a7db434ff88b45c18322b6b8bf/",
         KR:"https://shop.jcpremiere.com/products/1495dc02d8554174822e55bd411ca6ec/",
         BEL:"https://shop.jcpremiere.com/products/5c1fce6ef4cc48b88d0154a4b6b67242/",
+        UGA:"https://shop.jcpremiere.com/products/aeaf4ab1d0ab4eff9d5b20818d674a34/",
     
     },
 //Calvi - C
@@ -339,6 +348,7 @@ const products = {
         BEL:"https://shop.jcpremiere.com/products/4b6cbc0ea4884ad6863b6bc9988d1287/",
         NGA:"https://shop.jcpremiere.com/products/39e075fe42da43e6aaa4c47683a05c3b/",
         HK:"https://shop.jcpremiere.com/products/e5244672f9524b42855d822c657d19d8/",
+        UGA:"https://shop.jcpremiere.com/products/a0f7967d4af54b77bcbf0e9976927f7d/",
     
     },
 //Kind Hydrating Cleansing Foam 
@@ -350,6 +360,7 @@ const products = {
         ITA:"https://shop.jcpremiere.com/products/58fc5579c98a4f32bd176ee5c7190db3/",
         SGP:"https://shop.jcpremiere.com/products/73346f4591df40d8aa0315e2de77e8cd/",
         JPN:"https://shop.jcpremiere.com/products/8421e14a63df4a639a15dc6138b258de/",
+        UGA:"https://shop.jcpremiere.com/products/d5e022da82704be991b9e833967557e2/",
     
     },
 //Kind Intensive Whitening Facial Cream 
@@ -377,6 +388,7 @@ const products = {
         UK:"https://shop.jcpremiere.com/products/dcce8c0647f94711afcaaa6c775fe25e/",
         KR:"https://shop.jcpremiere.com/products/41b60f085d524a50814db1289585181e/",
         HK:"https://shop.jcpremiere.com/products/1ae2f1c3909642d6b3bc92eb7aa97f65/",
+        UGA:"https://shop.jcpremiere.com/products/2725cf1a653448168020cd0d7dff3d1a/",
     
     },
 //Kind Revitalizing Eye Cream 
@@ -393,6 +405,7 @@ const products = {
         KR:"https://shop.jcpremiere.com/products/3ff2f1917d454d6ba2d01436a0ca332d/",
         BEL:"https://shop.jcpremiere.com/products/c0497bd93eb145d299eef372bc610deb/",
         HK:"https://shop.jcpremiere.com/products/6aeea6340918412598ea2b0dcc169b71/",
+        UGA:"https://shop.jcpremiere.com/products/532ed6870ea340088090614a83e6ed33/",
     
     },
 //Kind Revitalizing Toner
@@ -407,6 +420,7 @@ const products = {
         JPN:"https://shop.jcpremiere.com/products/c4a7cfba1c5646d69528cf5bd47f6e83/",
         UK:"https://shop.jcpremiere.com/products/b9c5a91e354f4e22955ff922d3714d1f/",
         KR:"https://shop.jcpremiere.com/products/e8ea8518879949df85c76fb9f25034de/",
+        UGA:"https://shop.jcpremiere.com/products/2bbdc2f026f44d1a9ff3f4c7ca8c2ad4/",
     
     },
 //Kind Revitalizing Anti-Wrinkle Facial Serum 
@@ -421,6 +435,7 @@ const products = {
         UK:"https://shop.jcpremiere.com/products/c1b30b30d214491e88b495716fffa657/",
         KR:"https://shop.jcpremiere.com/products/cd55039f857e42c1adb7d6ef09b42c47/",
         HK:"https://shop.jcpremiere.com/products/7d7eb59a18524f4b8e0e1845c6a513fc/",
+        UGA:"https://shop.jcpremiere.com/products/eabfd7ea566742f29c991fc5006fe1a3/",
     
     },
 //Kind Intensive Whitening Facial Serum
@@ -434,6 +449,7 @@ const products = {
         UK:"https://shop.jcpremiere.com/products/6b2756264517464b97571cad64dcfa2a/",
         KR:"https://shop.jcpremiere.com/products/fc0c1b7ccf174ff6a432fc597a1a6af8/",
         HK:"https://shop.jcpremiere.com/products/2597b1a09a1f43818f406808e635732f/",
+        UGA:"https://shop.jcpremiere.com/products/81e8ecc976a04e92949b271894622a62/",
     
     },
 //GlutaFit
@@ -461,6 +477,7 @@ const products = {
         HRV:"https://shop.jcpremiere.com/products/e4e53df3856449419963c1d35f2c7674/",
         KR:"https://shop.jcpremiere.com/products/d6fb11bdfbc643d6aa8f2bba1db478a8/",
         NGA:"https://shop.jcpremiere.com/products/02a46981f9224456ac0a98c9c02544a9/",
+        UGA:"https://shop.jcpremiere.com/products/b969c5621a0f4a07adbb774d07e7ddd8/",
     
     },
 //Omni Fit
@@ -493,6 +510,7 @@ const products = {
         KR:"https://shop.jcpremiere.com/products/09f2f0b2d1794bb5aa1e7cf2dc902210/",
         BEL:"https://shop.jcpremiere.com/products/5827b72d11dc41abaef31ce2efed6c7f/",
         HK:"https://shop.jcpremiere.com/products/8b38b11cbf514e5995d16dc963753191/",
+        UGA:"https://shop.jcpremiere.com/products/53ca29a64cc34d81b5a12bb0dd035690/",
     
     },
 //Natures Own Shampoo 
@@ -509,6 +527,7 @@ const products = {
         KR:"https://shop.jcpremiere.com/products/7efcf2d3e29c4803afbe0946fb14e13d/",
         BEL:"https://shop.jcpremiere.com/products/a2bf3b123c7f42e3a192ead74b3c48ee/",
         HK:"https://shop.jcpremiere.com/products/91139cd74b6247cb93c706a9f9e706e7/",
+        UGA:"https://shop.jcpremiere.com/products/f4e773fe34da4f57b2cbc421e56a3bb1/",
     
     },
 //Natures Own Bodywash 
@@ -525,6 +544,7 @@ const products = {
         KR:"https://shop.jcpremiere.com/products/1ee204cb05f74a86902c80af54f85e1c/",
         BEL:"https://shop.jcpremiere.com/products/3a4ae818a9a541a1b2585f1dd885ac04/",
         HK:"https://shop.jcpremiere.com/products/9d3d444634c14fe0a605380ad2a99585/",
+        UGA:"https://shop.jcpremiere.com/products/a2c91510a04d4abf82d71f731b46249c/",
     
     },
 //Omni White Soap 
@@ -559,6 +579,7 @@ const products = {
         BEL:"https://shop.jcpremiere.com/products/58e0a591567646588296ff0346b37cc7/",
         NGA:"https://shop.jcpremiere.com/products/45251c97f3fa4310aa17a4ac4c008f7b/",
         HK:"https://shop.jcpremiere.com/products/2edbedc5d518465bb103047d1abe1ac2/",
+        UGA:"https://shop.jcpremiere.com/products/709992cee7e041388f63ea3a01ad85c7/",
     
     },
 //Omni White Kojic Soap 
@@ -574,7 +595,8 @@ const products = {
         KR:"https://shop.jcpremiere.com/products/3cc6a6549ac649529247b2a09a618ea6/",
         BEL:"https://shop.jcpremiere.com/products/a91b445ebc474e7daf119e0364a52d14/",
         NGA:"https://shop.jcpremiere.com/products/7fd710bdcf2e4adb91b1c3d8badbc454/",
-        HK:"https://shop.jcpremiere.com/products/390969c6d19946aba786fa16f5ead16a/"
+        HK:"https://shop.jcpremiere.com/products/390969c6d19946aba786fa16f5ead16a/",
+        UGA:"https://shop.jcpremiere.com/products/4c113b4cf5b644c8ae9d3219424568a5/",
     
     },
 //K-Pads (Night) 
@@ -592,6 +614,7 @@ const products = {
         BEL:"https://shop.jcpremiere.com/products/98607cee242a4dd395e2f319e8acbb55/",
         NGA:"https://shop.jcpremiere.com/products/ccb239e63555466b9a03d4372a0c1a13/",
         HK:"https://shop.jcpremiere.com/products/7955c1db017c4ebfa13a34aac3f3d892/",
+        UGA:"https://shop.jcpremiere.com/products/af01580d394c4bcab79c61cab1fe2eca/",
     
     },
 //K-Pads (panty liner)
@@ -609,6 +632,7 @@ const products = {
         Bel:"https://shop.jcpremiere.com/products/2585e65a5fa24be9b71b34754244504b/",
         NGA:"https://shop.jcpremiere.com/products/334f5dffbdad410abe4c85e4c28bee0b/",
         HK:"https://shop.jcpremiere.com/products/591718c5e5b047eea88d1cb48dbb69d2/",
+        UGA:"https://shop.jcpremiere.com/products/44d5cb4c1a2a4810ab5a5d1841d9ff65/",
     
     },
  //Weight Loss Program 
