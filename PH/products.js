@@ -150,7 +150,7 @@ const products = {
         SA:"https://shop.jcpremiere.com/products/8e73445686d847beba09c6c97b38908c/",
         KR:"https://shop.jcpremiere.com/products/06c238923a564dbbb7e6cbaa4d68e894/",
         NGA:"https://shop.jcpremiere.com/products/2f83e0f1da9b4354b4e59fa8bfdecc24/",
-        UGA;"https://shop.jcpremiere.com/products/522ded993e644019888f339d0f824536/",
+        UGA:"https://shop.jcpremiere.com/products/522ded993e644019888f339d0f824536/",
     
     },
 //Barley Collagen 
