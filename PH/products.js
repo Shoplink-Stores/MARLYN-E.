@@ -855,7 +855,7 @@ const products = {
         KR:"https://shop.jcpremiere.com/products/a8cca5c116304b749ccdca7aa96f728c/",
         BEL:"https://shop.jcpremiere.com/products/45f3091f29614680bd82db672abf5781/",
         HK:"https://shop.jcpremiere.com/products/7e855abe36b6430381c809d218891f2c/",
-        GU;"https://shop.jcpremiere.com/products/7e604ee8ac6d41058b8b28af010a9c33/
+        GU:"https://shop.jcpremiere.com/products/7e604ee8ac6d41058b8b28af010a9c33/",
     
     },
 
